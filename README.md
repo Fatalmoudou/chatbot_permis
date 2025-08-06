@@ -50,7 +50,7 @@ chatbot-permis/
 bash
 Copier
 Modifier
-git clone https://github.com/votre-utilisateur/chatbot-permis.git
+git clone https://github.com/Fatalmoudou/chatbot_permis
 cd chatbot-permis
 2. Créer un environnement virtuel
 bash
