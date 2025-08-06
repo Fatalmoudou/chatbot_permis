@@ -1,0 +1,2605 @@
+[
+  {
+    "id": "01-1",
+    "type": "VI : Vérification intérieure",
+    "category": "Sécurité routière",
+    "question": "Pourquoi doit-on régler ses feux de croisement ?",
+    "options": [
+      "Pour économiser la batterie",
+      "Pour ne pas éblouir les autres usagers",
+      "Pour éclairer plus loin",
+      "Pour le contrôle technique"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "01-2",
+    "type": "VI : Vérification intérieure",
+    "category": "1ers secours",
+    "question": "Comment protéger une zone de danger en cas d'accident ?",
+    "options": [
+      "En criant pour alerter",
+      "En délimitant largement la zone",
+      "En allumant les feux de voiture",
+      "En plaçant des pierres"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "02-3",
+    "type": "VE : Vérification extérieure",
+    "category": "Sécurité routière",
+    "question": "Pourquoi utiliser un lave-glace spécial en hiver ?",
+    "options": [
+      "Pour un meilleur nettoyage",
+      "Pour éviter le gel",
+      "Pour faire briller le pare-brise",
+      "Pour économiser le liquide"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "02-4",
+    "type": "VE : Vérification extérieure",
+    "category": "1ers secours",
+    "question": "Que faire lors d'une alerte SAIP ?",
+    "options": [
+      "Filmer la scène",
+      "Se mettre en sécurité",
+      "Appeler ses proches",
+      "Ignorer l'alerte"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "03-5",
+    "type": "VI",
+    "category": "Sécurité routière",
+    "question": "À quoi sert la position nuit du rétroviseur ?",
+    "options": [
+      "Améliorer la vision nocturne",
+      "Éviter l'éblouissement",
+      "Voir les angles morts",
+      "Réduire la fatigue oculaire"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "03-6",
+    "type": "VI",
+    "category": "1ers secours",
+    "question": "Comment est composé le signal d'alerte SAIP ?",
+    "options": [
+      "Un son continu",
+      "Deux codes distincts (SNA + fin d'alerte)",
+      "Trois bips courts",
+      "Une mélodie"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "04-7",
+    "type": "VE",
+    "category": "Sécurité routière",
+    "question": "Où trouver la pression des pneus ?",
+    "options": [
+      "Sur la portière ou la notice",
+      "Sur le tableau de bord",
+      "En appelant le garage",
+      "Sur les pneus"
+    ],
+    "answer": 0
+  },
+  {
+    "id": "04-8",
+    "type": "VE",
+    "category": "1ers secours",
+    "question": "Comment localiser un accident sur autoroute ?",
+    "options": [
+      "Donner la sortie la plus proche",
+      "Indiquer le numéro d'autoroute et PK",
+      "Utiliser Google Maps",
+      "Décrire les panneaux"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "05-9",
+    "type": "VI",
+    "category": "Sécurité routière",
+    "question": "Comment détecter l'usure des essuie-glaces ?",
+    "options": [
+      "Ils font du bruit",
+      "Ils laissent des traces",
+      "Ils sont décolorés",
+      "Ils vibrent"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "05-10",
+    "type": "VI",
+    "category": "1ers secours",
+    "question": "Comment vérifier la respiration d'une victime ?",
+    "options": [
+      "Prendre son pouls",
+      "Observer ventre/poitrine",
+      "Lui parler",
+      "Vérifier ses pupilles"
+    ],
+    "answer": 1
+  },
+  
+  {
+    "id": "06-11",
+    "type": "VE",
+    "category": "Sécurité routière",
+    "question": "Précautions avec un porte-vélo ?",
+    "options": [
+      "Attacher solidement le vélo",
+      "Plaque et feux visibles",
+      "Démonter le guidon",
+      "Gonfler les pneus à bloc"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "06-12",
+    "type": "VE",
+    "category": "1ers secours",
+    "question": "Qu'est-ce qu'une perte de connaissance ?",
+    "options": [
+      "Victime tremble",
+      "Victime ne répond pas mais respire",
+      "Victime parle mal",
+      "Victime a les yeux ouverts sans réagir"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "07-13",
+    "type": "VI",
+    "category": "Sécurité routière",
+    "question": "Quel accessoire est obligatoire avec le gilet ?",
+    "options": [
+      "Lampe torche",
+      "Triangle de pré-signalisation",
+      "Extincteur",
+      "Couverture"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "07-14",
+    "type": "VI",
+    "category": "1ers secours",
+    "question": "Où déplacer une victime en danger ?",
+    "options": [
+      "Dans un fossé",
+      "Loin du danger",
+      "Dans un véhicule",
+      "Sous un arbre"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "08-15",
+    "type": "VE",
+    "category": "Sécurité routière",
+    "question": "Risque d'un niveau bas de liquide de frein ?",
+    "options": [
+      "Usure des pneus",
+      "Perte d'efficacité du freinage",
+      "Surchauffe moteur",
+      "Panne électrique"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "08-16",
+    "type": "VE",
+    "category": "1ers secours",
+    "question": "Que porter avant de sortir d'un véhicule en panne ?",
+    "options": [
+      "Casque",
+      "Gilet haute visibilité",
+      "Gants",
+      "Chaussures de sécurité"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "09-17",
+    "type": "VI",
+    "category": "Sécurité routière",
+    "question": "Quels documents présenter lors d'un contrôle ?",
+    "options": [
+      "Carte grise et assurance",
+      "Permis et attestation d'assurance",
+      "Pass sanitaire",
+      "Facture d'entretien"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "09-18",
+    "type": "VI",
+    "category": "1ers secours",
+    "question": "Pourquoi alerter rapidement les secours ?",
+    "options": [
+      "Pour éviter une amende",
+      "Pour avoir des moyens adaptés vite",
+      "Pour calmer la victime",
+      "Pour remplir des papiers"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "10-19",
+    "type": "VE",
+    "category": "Sécurité routière",
+    "question": "Risque d'essuie-glaces défectueux ?",
+    "options": [
+      "Usure des pneus",
+      "Mauvaise visibilité sous la pluie",
+      "Surchauffe moteur",
+      "Panne batterie"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "10-20",
+    "type": "VE",
+    "category": "1ers secours",
+    "question": "Quels numéros d'urgence ?",
+    "options": [
+      "17, 18, 115",
+      "15, 18, 112",
+      "112, 114, 119",
+      "3637, 3113"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "11-21",
+    "type": "VI",
+    "category": "Sécurité routière",
+    "question": "Précautions lors du remplissage du réservoir ?",
+    "options": [
+      "Moteur allumé pour vérifier le niveau",
+      "Arrêter le moteur, ne pas fumer",
+      "Téléphoner pour passer le temps",
+      "Remplir à ras bord pour économiser"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "11-22",
+    "type": "VI",
+    "category": "1ers secours",
+    "question": "Que faire si une victime ne répond pas mais respire ?",
+    "options": [
+      "La laisser sur place",
+      "PLS + alerter secours",
+      "Lui donner à boire",
+      "La secouer vigoureusement"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "12-23",
+    "type": "VE",
+    "category": "Sécurité routière",
+    "question": "Risque avec le liquide de refroidissement chaud ?",
+    "options": [
+      "Panne électrique",
+      "Brûlures graves",
+      "Usure des pneus",
+      "Pertes d'huile"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "12-24",
+    "type": "VE",
+    "category": "1ers secours",
+    "question": "Comment stopper une hémorragie ?",
+    "options": [
+      "Appliquer de la glace",
+      "Compression directe avec tissu propre",
+      "Donner de l'aspirine",
+      "Allonger la victime tête en bas"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "13-25",
+    "type": "VI",
+    "category": "Sécurité routière",
+    "question": "Conséquence d'un dégivrage arrière en panne ?",
+    "options": [
+      "Moteur qui chauffe",
+      "Visibilité arrière réduite",
+      "Panne de chauffage",
+      "Usure des essuie-glaces"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "13-26",
+    "type": "VI",
+    "category": "1ers secours",
+    "question": "Où placer le triangle hors autoroute ?",
+    "options": [
+      "Sur le toit du véhicule",
+      "30 m avant l'accident",
+      "Dans le coffre",
+      "Au milieu de la route"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "14-27",
+    "type": "VE",
+    "category": "Sécurité routière",
+    "question": "Signification d'un clignotant rapide ?",
+    "options": [
+      "Batterie faible",
+      "Ampoule grillée",
+      "Pneu dégonflé",
+      "Freins usés"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "14-28",
+    "type": "VE",
+    "category": "1ers secours",
+    "question": "Conditions pour déplacer une victime ?",
+    "options": [
+      "Si elle demande à bouger",
+      "Danger immédiat incontrôlable",
+      "Pour la mettre à l'ombre",
+      "Si les secours tardent"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "15-29",
+    "type": "VI",
+    "category": "Sécurité routière",
+    "question": "Conditions pour vérifier l'huile moteur ?",
+    "options": [
+      "Moteur chaud après un trajet",
+      "Moteur froid sur terrain plat",
+      "Véhicule en pente",
+      "Plein de carburant fait"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "15-30",
+    "type": "VI",
+    "category": "1ers secours",
+    "question": "Infos à donner aux secours ?",
+    "options": [
+      "Votre âge et profession",
+      "Numéro, localisation, nature du problème",
+      "Groupe sanguin de la victime",
+      "Votre assurance auto"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "16-31",
+    "type": "VE",
+    "category": "Sécurité routière",
+    "question": "Quand utiliser les feux de brouillard ?",
+    "options": [
+      "En ville la nuit",
+      "Brouillard ou neige",
+      "Pluie légère",
+      "Tunnel éclairé"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "16-32",
+    "type": "VE",
+    "category": "1ers secours",
+    "question": "Comment alerter les secours ?",
+    "options": [
+      "Crier pour attirer l'attention",
+      "Téléphone portable ou borne d'urgence",
+      "Faire des signes lumineux",
+      "Envoyer un pigeon voyageur"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "17-33",
+    "type": "VI",
+    "category": "Sécurité routière",
+    "question": "Taux d'alcoolémie maximal en permis probatoire ?",
+    "options": [
+      "0,5 g/l",
+      "0,2 g/l (soit 0 verre)",
+      "0,8 g/l",
+      "0,1 g/l"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "17-34",
+    "type": "VI",
+    "category": "1ers secours",
+    "question": "Que faire face à un arrêt cardiaque ?",
+    "options": [
+      "Attendre les secours immobiles",
+      "Alerter-Masser-Défibriller",
+      "Donner à boire à la victime",
+      "Allumer des bougies"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "18-35",
+    "type": "VE",
+    "category": "Sécurité routière",
+    "question": "Quand utiliser les feux de détresse ?",
+    "options": [
+      "En double file",
+      "Panne/accident/ralentissement important",
+      "Pour remercier un usager",
+      "Dans les zones 30"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "18-36",
+    "type": "VE",
+    "category": "1ers secours",
+    "question": "Quand mettre en PLS ?",
+    "options": [
+      "Victime qui saigne du nez",
+      "Victime inconsciente qui respire",
+      "Victime avec fracture",
+      "Victime en crise d'asthme"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "19-37",
+    "type": "VI",
+    "category": "Sécurité routière",
+    "question": "Pourquoi bien régler son volant ?",
+    "options": [
+      "Pour faire des créneaux plus faciles",
+      "Confort + efficacité des airbags",
+      "Pour impressionner les passagers",
+      "Pour gagner en vitesse"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "19-38",
+    "type": "VI",
+    "category": "1ers secours",
+    "question": "Quand déplacer une victime ?",
+    "options": [
+      "Si elle gêne la circulation",
+      "Danger immédiat incontrôlable",
+      "Pour la mettre à l'aise",
+      "Si elle a froid"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "20-39",
+    "type": "VE",
+    "category": "Sécurité routière",
+    "question": "Quand utiliser l'avertisseur lumineux ?",
+    "options": [
+      "Pour saluer un ami",
+      "En cas de danger ou remplacement du klaxon",
+      "Dans les embouteillages",
+      "À l'approche d'un radar"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "20-40",
+    "type": "VE",
+    "category": "1ers secours",
+    "question": "Équipement obligatoire avant de quitter le véhicule en panne ?",
+    "options": [
+      "Casque de sécurité",
+      "Gilet haute visibilité",
+      "Gants de travail",
+      "Chaussures fermées"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "21-41",
+    "type": "VI",
+    "category": "Sécurité routière",
+    "question": "Éléments pour un désembuage efficace ?",
+    "options": [
+      "La radio allumée",
+      "Ventilation + air chaud/climatisation",
+      "Ouvrir toutes les fenêtres",
+      "Essuyer avec un chiffon"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "21-42",
+    "type": "VI",
+    "category": "1ers secours",
+    "question": "Objectif du signal SAIP ?",
+    "options": [
+      "Annoncer les actualités",
+      "Alerter d'un danger imminent",
+      "Diffuser de la musique",
+      "Prévenir des embouteillages"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "22-43",
+    "type": "VE",
+    "category": "Sécurité routière",
+    "question": "Risque d'un manque d'huile moteur ?",
+    "options": [
+      "Pneus dégonflés",
+      "Casse moteur",
+      "Pare-brise fissuré",
+      "Feux qui clignotent"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "22-44",
+    "type": "VE",
+    "category": "1ers secours",
+    "question": "Comment est diffusée l'alerte SAIP ?",
+    "options": [
+      "Par SMS personnalisés",
+      "Sirènes/médias/application SAIP",
+      "Panneaux lumineux en ville",
+      "Courrier postal"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "23-45",
+    "type": "VI",
+    "category": "Sécurité routière",
+    "question": "Qu'est-ce qui décharge la batterie (moteur éteint) ?",
+    "options": [
+      "Le klaxon",
+      "Feux/accessoires électriques allumés",
+      "La ceinture de sécurité",
+      "Le lavage auto"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "23-46",
+    "type": "VI",
+    "category": "1ers secours",
+    "question": "Âge minimum pour se former aux premiers secours ?",
+    "options": [
+      "16 ans",
+      "10 ans",
+      "18 ans",
+      "6 ans"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "24-47",
+    "type": "VE",
+    "category": "Sécurité routière",
+    "question": "Solution pour démarrer avec une batterie à plat ?",
+    "options": [
+      "Pousser le véhicule en descente",
+      "Brancher une 2ème batterie ou la remplacer",
+      "Attendre 24 heures",
+      "Allumer les phares"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "24-48",
+    "type": "VE",
+    "category": "1ers secours",
+    "question": "Pourquoi faire une RCP immédiate en arrêt cardiaque ?",
+    "options": [
+      "Pour éviter une amende",
+      "Lésions cérébrales dès les premières minutes",
+      "Pour réveiller la victime",
+      "C'est obligatoire par la loi"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "25-49",
+    "type": "VI",
+    "category": "Sécurité routière",
+    "question": "Risque d'un frein de parking mal desserré ?",
+    "options": [
+      "Usure des pneus",
+      "Dégradation du système de freinage",
+      "Panne de direction",
+      "Surchauffe du moteur"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "25-50",
+    "type": "VI",
+    "category": "1ers secours",
+    "question": "Où placer le triangle hors autoroute ?",
+    "options": [
+      "Sur le capot",
+      "30 m avant l'accident/virage",
+      "Dans le coffre",
+      "Accroché à la fenêtre"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "26-51",
+    "type": "VE",
+    "category": "Sécurité routière",
+    "question": "Conséquences d'un mauvais réglage des feux ?",
+    "options": [
+      "Usure prématurée des pneus",
+      "Mauvaise visibilité + éblouissement",
+      "Surchauffe du moteur",
+      "Décharge de la batterie"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "26-52",
+    "type": "VE",
+    "category": "1ers secours",
+    "question": "Quand déplacer une victime ?",
+    "options": [
+      "Si elle demande à aller aux toilettes",
+      "Danger réel et immédiat",
+      "Pour la photographier",
+      "Si elle a chaud"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "27-53",
+    "type": "VI",
+    "category": "Sécurité routière",
+    "question": "Risque d'un liquide de refroidissement trop chaud ?",
+    "options": [
+      "Pneus dégonflés",
+      "Surchauffe/casse moteur",
+      "Pare-brise fissuré",
+      "Feux qui grésillent"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "27-54",
+    "type": "VI",
+    "category": "1ers secours",
+    "question": "Pourquoi attendre que les secours raccrochent en premier ?",
+    "options": [
+      "Pour ne pas payer la communication",
+      "Ils peuvent guider les gestes à faire",
+      "C'est une règle de politesse",
+      "Pour éviter les interférences"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "28-55",
+    "type": "VE",
+    "category": "Sécurité routière",
+    "question": "Utilité des dispositifs réfléchissants ?",
+    "options": [
+      "Améliorer l'aérodynamisme",
+      "Rendre visible la nuit",
+      "Économiser l'énergie",
+      "Protéger la carrosserie"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "28-56",
+    "type": "VE",
+    "category": "1ers secours",
+    "question": "Quand raccrocher avec les secours ?",
+    "options": [
+      "Dès qu'on a tout expliqué",
+      "Quand ils l'autorisent",
+      "Après 3 minutes",
+      "Si la victime reprend connaissance"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "29-57",
+    "type": "VI",
+    "category": "Sécurité routière",
+    "question": "Comment sécuriser les portières enfants ?",
+    "options": [
+      "Coller du scotch",
+      "Activer la sécurité enfant",
+      "Enlever les poignées",
+      "Verrouiller les vitres"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "29-58",
+    "type": "VI",
+    "category": "1ers secours",
+    "question": "Comment évaluer l'état de conscience ?",
+    "options": [
+      "Vérifier le portefeuille",
+      "Poser des questions + stimuli physiques",
+      "Observer les vêtements",
+      "Sentir son haleine"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "30-59",
+    "type": "VE",
+    "category": "Sécurité routière",
+    "question": "Distance de visibilité des feux de position par temps clair ?",
+    "options": [
+      "50 mètres",
+      "150 mètres",
+      "300 mètres",
+      "1 kilomètre"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "30-60",
+    "type": "VE",
+    "category": "1ers secours",
+    "question": "Risques pour une personne inconsciente sur le dos ?",
+    "options": [
+      "Crampes musculaires",
+      "Arrêt respiratoire/cardiaque",
+      "Brûlures internes",
+      "Hémorragie cérébrale"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "31-61",
+    "type": "VI",
+    "category": "Sécurité routière",
+    "question": "Peut-on fixer tous les sièges enfants sur des attaches Isofix ?",
+    "options": [
+      "Oui, sans exception",
+      "Non (uniquement les compatibles)",
+      "Seulement avant 3 ans",
+      "Uniquement sur les sièges avant"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "31-62",
+    "type": "VI",
+    "category": "1ers secours",
+    "question": "Comment vérifier la respiration d'une victime ?",
+    "options": [
+      "Prendre sa température",
+      "Observer ventre/poitrine + sentir l'air",
+      "Écouter avec un stéthoscope",
+      "Vérifier la couleur des ongles"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "32-63",
+    "type": "VE",
+    "category": "Sécurité routière",
+    "question": "Qu'est-ce que l'aquaplaning ?",
+    "options": [
+      "Un système de lavage auto",
+      "Perte d'adhérence due à un film d'eau",
+      "Un type de pneumatique",
+      "Une fuite du réservoir"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "32-64",
+    "type": "VE",
+    "category": "1ers secours",
+    "question": "Où déplacer une victime en danger immédiat ?",
+    "options": [
+      "Dans un rayon de 2 mètres",
+      "Loin du danger et ses conséquences",
+      "Sous un arbre",
+      "Dans un véhicule fermé"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "33-65",
+    "type": "VI",
+    "category": "Sécurité routière",
+    "question": "Comment démarrer sans commande de démarrage ?",
+    "options": [
+      "En soufflant dans le réservoir",
+      "Appuyer sur pédale de frein/embrayage",
+      "Frotter les câbles de la batterie",
+      "Allumer les phares pleins feux"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "33-66",
+    "type": "VI",
+    "category": "1ers secours",
+    "question": "Comment localiser un accident sur autoroute ?",
+    "options": [
+      "Donner le nom de la dernière aire",
+      "Numéro d'autoroute + PK + sens",
+      "Décrire le paysage",
+      "Utiliser une boussole"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "34-67",
+    "type": "VE",
+    "category": "Sécurité routière",
+    "question": "Précautions au remplissage du réservoir ?",
+    "options": [
+      "Moteur en marche pour vérifier",
+      "Moteur arrêté, pas de feu/téléphone",
+      "Téléphoner pour vérifier le niveau",
+      "Remplir à 80% pour économiser"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "34-68",
+    "type": "VE",
+    "category": "1ers secours",
+    "question": "Pourquoi une alerte rapide et précise aux secours ?",
+    "options": [
+      "Pour gagner des cadeaux",
+      "Moyens adaptés + intervention rapide",
+      "Éviter les amendes",
+      "Pour faire un article de presse"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "35-69",
+    "type": "VI",
+    "category": "Sécurité routière",
+    "question": "Quand utiliser le klaxon en ville ?",
+    "options": [
+      "Pour saluer un ami",
+      "Danger immédiat uniquement",
+      "Aux feux rouges",
+      "Quand on est pressé"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "35-70",
+    "type": "VI",
+    "category": "1ers secours",
+    "question": "Pourquoi ne pas laisser un inconscient sur le dos ?",
+    "options": [
+      "Risque de ronflement",
+      "Étouffement par la langue/liquides",
+      "Taches sur les vêtements",
+      "Déformation de la colonne"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "36-71",
+    "type": "VE",
+    "category": "Sécurité routière",
+    "question": "Risque principal d'un manque d'huile moteur ?",
+    "options": [
+      "Usure des essuie-glaces",
+      "Détérioration/casse moteur",
+      "Pneus qui glissent",
+      "Pare-brise qui se fissure"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "36-72",
+    "type": "VE",
+    "category": "1ers secours",
+    "question": "Risque d'utiliser un DAE sur une personne consciente ?",
+    "options": [
+      "Brûlures graves",
+      "Aucun (ne se déclenche pas)",
+      "Arrêt cardiaque provoqué",
+      "Choc électrique mortel"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "37-73",
+    "type": "VI",
+    "category": "Sécurité routière",
+    "question": "Quand désactiver l'airbag passager ?",
+    "options": [
+      "Toujours garder activé",
+      "Siège enfant dos à la route",
+      "Quand le passager est un adulte",
+      "Par temps chaud"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "37-74",
+    "type": "VI",
+    "category": "1ers secours",
+    "question": "Conditions pour déplacer une victime en danger ?",
+    "options": [
+      "Si elle pèse moins de 60kg",
+      "Visible + accessible + déplacement possible",
+      "Uniquement avec deux sauveteurs",
+      "Si elle saigne abondamment"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "38-75",
+    "type": "VE",
+    "category": "Sécurité routière",
+    "question": "Fréquence de vérification de la pression des pneus ?",
+    "options": [
+      "Tous les 2 ans",
+      "Chaque mois + avant longs trajets",
+      "Seulement en hiver",
+      "Quand le voyant s'allume"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "38-76",
+    "type": "VE",
+    "category": "1ers secours",
+    "question": "Comment protéger une zone d'accident ?",
+    "options": [
+      "Allumer son téléphone portable",
+      "Délimiter largement et visiblement",
+      "Créer un barrage avec des vêtements",
+      "Peindre des marques au sol"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "39-77",
+    "type": "VI",
+    "category": "Sécurité routière",
+    "question": "À quel âge un enfant peut-il s'asseoir à l'avant ?",
+    "options": [
+      "5 ans",
+      "10 ans (sauf exceptions)",
+      "12 ans",
+      "Dès la naissance"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "39-78",
+    "type": "VI",
+    "category": "1ers secours",
+    "question": "Composition du signal SAIP ?",
+    "options": [
+      "1 son continu de 30 secondes",
+      "SNA (3 cycles) + fin d'alerte (continu)",
+      "5 bips espacés",
+      "Alternance de sons graves/aigus"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "40-79",
+    "type": "VE",
+    "category": "Sécurité routière",
+    "question": "Un défaut d'éclairage de plaque implique-t-il une contre-visite ?",
+    "options": [
+      "Non, c'est mineur",
+      "Oui",
+      "Seulement la nuit",
+      "Uniquement pour les véhicules neufs"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "40-80",
+    "type": "VE",
+    "category": "1ers secours",
+    "question": "Infos cruciales pour les secours ?",
+    "options": [
+      "Couleur des yeux de la victime",
+      "Numéro, localisation, nature du problème",
+      "Poids approximatif de la victime",
+      "Dernier repas de la victime"
+    ],
+    "answer": 1
+  },
+  
+  {
+    "id": "41-81",
+    "type": "VI",
+    "category": "Sécurité routière",
+    "question": "Documents obligatoires pour un contrôle ?",
+    "options": [
+      "Carte grise + certificat de non-gage",
+      "Permis + attestation d'assurance",
+      "Dernière facture d'entretien",
+      "Carnet de vaccination"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "41-82",
+    "type": "VI",
+    "category": "1ers secours",
+    "question": "Qu'est-ce qu'une hémorragie ?",
+    "options": [
+      "Une douleur musculaire",
+      "Perte de sang abondante continue",
+      "Un saignement qui s'arrête seul",
+      "Une fracture ouverte"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "42-83",
+    "type": "VE",
+    "category": "Sécurité routière",
+    "question": "Peut-on ouvrir une portière enfant sécurisée de l'extérieur ?",
+    "options": [
+      "Non, jamais",
+      "Oui",
+      "Seulement avec la clé",
+      "Uniquement sur certains modèles"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "42-84",
+    "type": "VE",
+    "category": "1ers secours",
+    "question": "Risques d'une hémorragie non contrôlée ?",
+    "options": [
+      "Maux de tête",
+      "Arrêt cardiaque/détresse circulatoire",
+      "Fièvre élevée",
+      "Problèmes digestifs"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "43-85",
+    "type": "VI",
+    "category": "Sécurité routière",
+    "question": "Peut-on utiliser les feux de brouillard arrière sous forte pluie ?",
+    "options": [
+      "Oui, c'est obligatoire",
+      "Non",
+      "Seulement la nuit",
+      "Uniquement sur autoroute"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "43-86",
+    "type": "VI",
+    "category": "1ers secours",
+    "question": "Signes d'un arrêt cardiaque ?",
+    "options": [
+      "Victime qui parle fort",
+      "Inconscience + absence de respiration",
+      "Battements de cœur rapides",
+      "Transpiration abondante"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "44-87",
+    "type": "VE",
+    "category": "Sécurité routière",
+    "question": "Utilités des feux de recul ?",
+    "options": [
+      "Éclairer l'habitacle",
+      "Éclairer la zone + avertir les usagers",
+      "Améliorer l'aérodynamisme",
+      "Charger la batterie"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "44-88",
+    "type": "VE",
+    "category": "1ers secours",
+    "question": "Qu'est-ce qu'un DAE ?",
+    "options": [
+      "Un détecteur de fumée",
+      "Défibrillateur Automatisé Externe",
+      "Un type de brancard",
+      "Un médicament d'urgence"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "45-89",
+    "type": "VI",
+    "category": "Sécurité routière",
+    "question": "Utilité de l'appuie-tête ?",
+    "options": [
+      "Confort uniquement",
+      "Limiter les blessures cervicales",
+      "Réduire le bruit",
+      "Améliorer la climatisation"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "45-90",
+    "type": "VI",
+    "category": "1ers secours",
+    "question": "Comment alerter les secours ?",
+    "options": [
+      "En criant très fort",
+      "Téléphone portable/fixe ou borne",
+      "En allumant un feu de signalisation",
+      "En agitant un drapeau"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "46-91",
+    "type": "VE",
+    "category": "Sécurité routière",
+    "question": "Conséquence d'une panne des feux stop ?",
+    "options": [
+      "Amende immédiate",
+      "Risque de collision pour les usagers derrière",
+      "Impossibilité de démarrer",
+      "Usure prématurée des pneus"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "46-92",
+    "type": "VE",
+    "category": "1ers secours",
+    "question": "Pourquoi attendre que les secours raccrochent en premier ?",
+    "options": [
+      "Pour économiser la batterie du téléphone",
+      "Ils peuvent donner des consignes cruciales",
+      "C'est la loi",
+      "Pour éviter les interférences radio"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "47-93",
+    "type": "VI",
+    "category": "Sécurité routière",
+    "question": "Différence entre voyant rouge et orange ?",
+    "options": [
+      "Le rouge est moins urgent",
+      "Rouge = danger, Orange = alerte importante",
+      "L'orange indique un rappel",
+      "Aucune différence"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "47-94",
+    "type": "VI",
+    "category": "1ers secours",
+    "question": "Qu'est-ce qu'un arrêt cardiaque ?",
+    "options": [
+      "Cœur qui bat trop vite",
+      "Cœur qui ne pompe plus efficacement",
+      "Pouls irrégulier",
+      "Hypertension artérielle"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "48-95",
+    "type": "VE",
+    "category": "Sécurité routière",
+    "question": "Risque d'un capot mal fermé ?",
+    "options": [
+      "Amende forfaitaire",
+      "Ouverture en roulant pouvant causer un accident",
+      "Surconsommation de carburant",
+      "Désactivation des airbags"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "48-96",
+    "type": "VE",
+    "category": "1ers secours",
+    "question": "Risque principal d'un arrêt cardiaque non traité ?",
+    "options": [
+      "Fractures costales",
+      "Décès en quelques minutes",
+      "Lésions cutanées",
+      "Cécité temporaire"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "49-97",
+    "type": "VI",
+    "category": "Sécurité routière",
+    "question": "Risque du recyclage d'air prolongé ?",
+    "options": [
+      "Surchauffe du moteur",
+      "Buée sur les vitres",
+      "Usure du filtre à air",
+      "Mauvaise odeur"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "49-98",
+    "type": "VI",
+    "category": "1ers secours",
+    "question": "Risques pour un inconscient sur le dos ?",
+    "options": [
+      "Brûlures",
+      "Étouffement par la langue",
+      "Engelures",
+      "Crampes"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "50-99",
+    "type": "VE",
+    "category": "Sécurité routière",
+    "question": "Risque d'absence de liquide lave-glace ?",
+    "options": [
+      "Panne électrique",
+      "Visibilité réduite",
+      "Usure des essuie-glaces",
+      "Surconsommation"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "50-100",
+    "type": "VE",
+    "category": "1ers secours",
+    "question": "Pourquoi faire une RCP immédiate ?",
+    "options": [
+      "Pour éviter une amende",
+      "Lésions cérébrales rapides",
+      "Calmer la victime",
+      "Réduire les douleurs"
+    ],
+    "answer": 1
+  },
+  
+  {
+    "id": "51-101",
+    "type": "VI",
+    "category": "Sécurité routière",
+    "question": "Risque des feux de route mal utilisés ?",
+    "options": [
+      "Panne des ampoules",
+      "Éblouissement des autres conducteurs",
+      "Décharge de la batterie",
+      "Amende automatique"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "51-102",
+    "type": "VI",
+    "category": "1ers secours",
+    "question": "Objectif du signal SAIP ?",
+    "options": [
+      "Annoncer les embouteillages",
+      "Alerter d'un danger imminent",
+      "Diffuser des messages publicitaires",
+      "Signaler un contrôle radar"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "52-103",
+    "type": "VE",
+    "category": "Sécurité routière",
+    "question": "Utilité des feux diurnes ?",
+    "options": [
+      "Remplacer les feux de position",
+      "Améliorer la visibilité diurne",
+      "Économiser l'énergie",
+      "Charger la batterie"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "52-104",
+    "type": "VE",
+    "category": "1ers secours",
+    "question": "Quand raccrocher avec les secours ?",
+    "options": [
+      "Dès qu'on a tout dit",
+      "Quand ils l'autorisent",
+      "Après 1 minute",
+      "Si la victime bouge"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "53-105",
+    "type": "VI",
+    "category": "Sécurité routière",
+    "question": "Délai pour déclarer un accident à l'assurance ?",
+    "options": [
+      "24 heures",
+      "5 jours ouvrés",
+      "15 jours",
+      "1 mois"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "53-106",
+    "type": "VI",
+    "category": "1ers secours",
+    "question": "Risque d'un arrêt cardiaque non traité ?",
+    "options": [
+      "Fractures",
+      "Décès en quelques minutes",
+      "Paralysie",
+      "Cécité"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "54-107",
+    "type": "VE",
+    "category": "Sécurité routière",
+    "question": "Utilise-t-on le triangle sur autoroute ?",
+    "options": [
+      "Oui, c'est obligatoire",
+      "Non",
+      "Seulement la nuit",
+      "Uniquement dans les virages"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "54-108",
+    "type": "VE",
+    "category": "1ers secours",
+    "question": "Conduite à tenir en arrêt cardiaque ?",
+    "options": [
+      "Attendre les secours",
+      "Alerter-Masser-Défibriller",
+      "Donner à boire",
+      "Refroidir la victime"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "55-109",
+    "type": "VI",
+    "category": "Sécurité routière",
+    "question": "Risque d'un frein à main mal desserré ?",
+    "options": [
+      "Usure des pneus",
+      "Dégradation du système de freinage",
+      "Panne de direction",
+      "Surchauffe moteur"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "55-110",
+    "type": "VI",
+    "category": "1ers secours",
+    "question": "Comment stopper une hémorragie ?",
+    "options": [
+      "Glace sur la plaie",
+      "Compression avec tissu propre",
+      "Garrot systématique",
+      "Désinfectant alcoolisé"
+    ],
+    "answer": 1
+  },
+  
+  {
+    "id": "56-111",
+    "type": "VE",
+    "category": "Sécurité routière",
+    "question": "Conséquences d'une panne d'un feu de croisement ?",
+    "options": [
+      "Amende immédiate",
+      "Mauvaise visibilité + confusion avec un 2-roues",
+      "Désactivation des airbags",
+      "Impossibilité de démarrer"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "56-112",
+    "type": "VE",
+    "category": "1ers secours",
+    "question": "Comment évaluer l'état de conscience ?",
+    "options": [
+      "Vérifier le portefeuille",
+      "Questions simples + stimuli physiques",
+      "Observer les pupilles",
+      "Prendre la température"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "57-113",
+    "type": "VI",
+    "category": "Sécurité routière",
+    "question": "Utilité d'un limiteur de vitesse ?",
+    "options": [
+      "Réduire la consommation d'essence",
+      "Maintenir une vitesse maximale choisie",
+      "Améliorer le freinage",
+      "Remplacer le compteur de vitesse"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "57-114",
+    "type": "VI",
+    "category": "1ers secours",
+    "question": "Numéros d'urgence à connaître ?",
+    "options": [
+      "17, 18, 115",
+      "15, 18, 112",
+      "114, 119, 191",
+      "3113, 3637"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "58-115",
+    "type": "VE",
+    "category": "Sécurité routière",
+    "question": "Risque d'un feu de position arrière défaillant ?",
+    "options": [
+      "Usure des pneus",
+      "Collision par mauvaise visibilité",
+      "Surchauffe du moteur",
+      "Panne électrique générale"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "58-116",
+    "type": "VE",
+    "category": "1ers secours",
+    "question": "Comment est diffusée l'alerte SAIP ?",
+    "options": [
+      "SMS groupés",
+      "Sirènes + médias + appli SAIP",
+      "Panneaux lumineux routiers",
+      "Haut-parleurs de police"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "59-117",
+    "type": "VI",
+    "category": "Sécurité routière",
+    "question": "Améliorer la visibilité arrière par temps de pluie ?",
+    "options": [
+      "Allumer les feux de brouillard avant",
+      "Activer le désembuage/dégivrage arrière",
+      "Baisser les vitres",
+      "Accélérer pour évacuer l'eau"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "59-118",
+    "type": "VI",
+    "category": "1ers secours",
+    "question": "Conduite à tenir avec une victime inconsciente qui respire ?",
+    "options": [
+      "La laisser sur place",
+      "PLS + alerte + surveillance",
+      "Lui donner à boire",
+      "La couvrir chaudement"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "60-119",
+    "type": "VE",
+    "category": "Sécurité routière",
+    "question": "Précautions avec un coffre très chargé ?",
+    "options": [
+      "Déclarer le chargement en mairie",
+      "Ajuster pression pneus + hauteur feux",
+      "Conduire en alerte permanente",
+      "Désactiver l'ABS"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "60-120",
+    "type": "VE",
+    "category": "1ers secours",
+    "question": "Risque d'utiliser un DAE sur une personne consciente ?",
+    "options": [
+      "Brûlures graves",
+      "Aucun (ne se déclenche pas)",
+      "Arrêt cardiaque induit",
+      "Perte de mémoire"
+    ],
+    "answer": 1
+  },
+  
+  {
+    "id": "61-121",
+    "type": "VI",
+    "category": "Sécurité routière",
+    "question": "Tous les sièges enfants sont-ils compatibles Isofix ?",
+    "options": [
+      "Oui, sans exception",
+      "Non (uniquement les modèles prévus pour)",
+      "Seulement après 3 ans",
+      "Uniquement sur les sièges avant"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "61-122",
+    "type": "VI",
+    "category": "1ers secours",
+    "question": "Comment vérifier la respiration ?",
+    "options": [
+      "Prendre le pouls",
+      "Observer ventre/poitrine + sentir l'air",
+      "Écouter avec un stéthoscope",
+      "Vérifier la couleur des lèvres"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "62-123",
+    "type": "VE",
+    "category": "Sécurité routière",
+    "question": "Risques d'un chargement mal arrimé ?",
+    "options": [
+      "Amende forfaitaire",
+      "Projection en cas de freinage/choc",
+      "Usure des amortisseurs",
+      "Déséquilibre du véhicule"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "62-124",
+    "type": "VE",
+    "category": "1ers secours",
+    "question": "Qu'est-ce qu'une hémorragie ?",
+    "options": [
+      "Saignement qui s'arrête seul",
+      "Perte de sang abondante continue",
+      "Ecchymose superficielle",
+      "Vaisseau brisé sous la peau"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "63-125",
+    "type": "VI",
+    "category": "Sécurité routière",
+    "question": "Fréquence de vérification de la pression des pneus ?",
+    "options": [
+      "Tous les 6 mois",
+      "Tous les mois",
+      "Seulement avant les longs trajets",
+      "Quand le voyant s'allume"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "63-126",
+    "type": "VI",
+    "category": "1ers secours",
+    "question": "Qu'est-ce qu'un arrêt cardiaque ?",
+    "options": [
+      "Cœur qui bat irrégulièrement",
+      "Cœur ne pompant plus efficacement",
+      "Pouls très rapide",
+      "Pression artérielle élevée"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "64-127",
+    "type": "VE",
+    "category": "Sécurité routière",
+    "question": "Utilité du dispositif de sécurité d'un capot ?",
+    "options": [
+      "Empêcher le vol",
+      "Éviter l'ouverture en roulant",
+      "Améliorer l'aérodynamisme",
+      "Protéger des intempéries"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "64-128",
+    "type": "VE",
+    "category": "1ers secours",
+    "question": "Risques d'une hémorragie non contrôlée ?",
+    "options": [
+      "Maux de tête",
+      "Arrêt cardiaque par manque de sang",
+      "Fièvre élevée",
+      "Raideur musculaire"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "65-129",
+    "type": "VI",
+    "category": "Sécurité routière",
+    "question": "Pourquoi régler la hauteur des feux ?",
+    "options": [
+      "Économiser les ampoules",
+      "Éviter d'éblouir les autres usagers",
+      "Améliorer l'aérodynamisme",
+      "Réduire la consommation"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "65-130",
+    "type": "VI",
+    "category": "1ers secours",
+    "question": "Comment protéger une zone d'accident ?",
+    "options": [
+      "Allumer son téléphone portable",
+      "Baliser largement et visiblement",
+      "Peindre des marques au sol",
+      "Crier pour alerter"
+    ],
+    "answer": 1
+  },
+  
+  {
+    "id": "66-131",
+    "type": "VE",
+    "category": "Sécurité routière",
+    "question": "Conséquence d'un lave-glace défaillant ?",
+    "options": [
+      "Usure des essuie-glaces",
+      "Visibilité réduite par saletés",
+      "Surchauffe moteur",
+      "Panne électrique"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "66-132",
+    "type": "VE",
+    "category": "1ers secours",
+    "question": "Qu'est-ce qu'un DAE ?",
+    "options": [
+      "Détecteur d'Airbag Électronique",
+      "Défibrillateur Automatisé Externe",
+      "Dispositif d'Alarme d'Évitement",
+      "Dispositif d'Arrêt d'Urgence"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "67-133",
+    "type": "VI",
+    "category": "Sécurité routière",
+    "question": "Utilité de la position nuit du rétroviseur intérieur ?",
+    "options": [
+      "Améliorer la vision nocturne",
+      "Réduire l'éblouissement des voitures derrière",
+      "Voir les angles morts",
+      "Diminuer la fatigue visuelle"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "67-134",
+    "type": "VI",
+    "category": "1ers secours",
+    "question": "Composition du signal SAIP ?",
+    "options": [
+      "1 minute de son continu",
+      "SNA (3 cycles) + signal de fin continu",
+      "5 bips courts",
+      "Alternance de sons graves/aigus"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "68-135",
+    "type": "VE",
+    "category": "Sécurité routière",
+    "question": "Où trouver la pression préconisée des pneus ?",
+    "options": [
+      "Sur la roue de secours",
+      "Portière/notice/trappe à carburant",
+      "Sur le tableau de bord électronique",
+      "Sur les pneus neufs"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "68-136",
+    "type": "VE",
+    "category": "1ers secours",
+    "question": "Comment localiser un accident sur autoroute ?",
+    "options": [
+      "Décrire le paysage",
+      "Numéro autoroute + PK + sens",
+      "Donner l'heure exacte",
+      "Compter les panneaux"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "69-137",
+    "type": "VI",
+    "category": "Sécurité routière",
+    "question": "Comment détecter l'usure des essuie-glaces ?",
+    "options": [
+      "Ils deviennent plus souples",
+      "Traces sur le pare-brise par temps de pluie",
+      "Changement de couleur",
+      "Bruit anormal"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "69-138",
+    "type": "VI",
+    "category": "1ers secours",
+    "question": "Comment vérifier la respiration ?",
+    "options": [
+      "Prendre le pouls",
+      "Observer le soulèvement du ventre/poitrine",
+      "Écouter avec un stéthoscope",
+      "Vérifier la transpiration"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "70-139",
+    "type": "VE",
+    "category": "Sécurité routière",
+    "question": "Risque d'un niveau bas de liquide de frein ?",
+    "options": [
+      "Usure des pneus",
+      "Freinage moins efficace",
+      "Surchauffe du moteur",
+      "Panne électrique"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "70-140",
+    "type": "VE",
+    "category": "1ers secours",
+    "question": "Équipement obligatoire avant de sortir d'un véhicule en panne ?",
+    "options": [
+      "Casque de sécurité",
+      "Gilet haute visibilité",
+      "Gants isolants",
+      "Chaussures de sécurité"
+    ],
+    "answer": 1
+  },
+  
+  {
+    "id": "71-141",
+    "type": "VI",
+    "category": "Sécurité routière",
+    "question": "Accessoire obligatoire avec le gilet en cas d'accident ?",
+    "options": [
+      "Lampe torche",
+      "Triangle de pré-signalisation",
+      "Extincteur",
+      "Couteau de sécurité"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "71-142",
+    "type": "VI",
+    "category": "1ers secours",
+    "question": "Où déplacer une victime en danger immédiat ?",
+    "options": [
+      "Dans un fossé",
+      "Loin du danger et ses conséquences",
+      "Dans un véhicule",
+      "Sous un arbre"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "72-143",
+    "type": "VE",
+    "category": "Sécurité routière",
+    "question": "Danger avec le liquide de refroidissement chaud ?",
+    "options": [
+      "Panne électrique",
+      "Brûlures graves",
+      "Gel instantané",
+      "Explosion du réservoir"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "72-144",
+    "type": "VE",
+    "category": "1ers secours",
+    "question": "Comment stopper une hémorragie ?",
+    "options": [
+      "Glace sur la plaie",
+      "Compression avec tissu propre",
+      "Garrot systématique",
+      "Désinfectant alcoolisé"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "73-145",
+    "type": "VI",
+    "category": "Sécurité routière",
+    "question": "Conséquence d'un dégivrage arrière en panne ?",
+    "options": [
+      "Moteur qui chauffe",
+      "Visibilité arrière réduite",
+      "Panne de chauffage",
+      "Usure des essuie-glaces"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "73-146",
+    "type": "VI",
+    "category": "1ers secours",
+    "question": "Position du triangle hors autoroute ?",
+    "options": [
+      "Sur le toit du véhicule",
+      "30 m avant l'obstacle/virage",
+      "Dans le coffre",
+      "Accroché au rétroviseur"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "74-147",
+    "type": "VE",
+    "category": "Sécurité routière",
+    "question": "Signification d'un clignotant rapide ?",
+    "options": [
+      "Batterie faible",
+      "Ampoule grillée",
+      "Pneu dégonflé",
+      "Problème de frein"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "74-148",
+    "type": "VE",
+    "category": "1ers secours",
+    "question": "Conditions pour déplacer une victime ?",
+    "options": [
+      "Si elle pèse moins de 60kg",
+      "Danger immédiat + déplacement possible",
+      "Uniquement avec deux sauveteurs",
+      "Si elle saigne abondamment"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "75-149",
+    "type": "VI",
+    "category": "Sécurité routière",
+    "question": "Conditions pour vérifier l'huile moteur ?",
+    "options": [
+      "Moteur chaud après un trajet",
+      "Moteur froid sur terrain plat",
+      "Véhicule en pente",
+      "Plein de carburant fait"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "75-150",
+    "type": "VI",
+    "category": "1ers secours",
+    "question": "Infos cruciales pour les secours ?",
+    "options": [
+      "Couleur des yeux de la victime",
+      "Numéro, localisation, nature du problème",
+      "Poids approximatif de la victime",
+      "Dernier repas de la victime"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "76-151",
+    "type": "VE",
+    "category": "Sécurité routière",
+    "question": "Quand utiliser les feux de détresse ?",
+    "options": [
+      "Pour stationner en double file",
+      "En cas de panne/accident/ralentissement important",
+      "Dans les zones 30 km/h",
+      "Pour remercier un autre conducteur"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "76-152",
+    "type": "VE",
+    "category": "1ers secours",
+    "question": "Quand mettre une victime en PLS ?",
+    "options": [
+      "Dès qu'elle saigne du nez",
+      "Si inconsciente mais respire",
+      "En cas de fracture visible",
+      "Quand elle a des convulsions"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "77-153",
+    "type": "VI",
+    "category": "Sécurité routière",
+    "question": "Taux d'alcool maximal en permis probatoire ?",
+    "options": [
+      "0,5 g/l de sang",
+      "0,2 g/l (soit 0 verre)",
+      "0,8 g/l de sang",
+      "0,1 g/l de sang"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "77-154",
+    "type": "VI",
+    "category": "1ers secours",
+    "question": "Conduite à tenir en arrêt cardiaque ?",
+    "options": [
+      "Attendre les secours immobile",
+      "Alerter-Masser-Défibriller",
+      "Donner à boire à la victime",
+      "Allumer des bougies"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "78-155",
+    "type": "VE",
+    "category": "Sécurité routière",
+    "question": "Quand utiliser l'avertisseur lumineux ?",
+    "options": [
+      "Pour saluer un ami",
+      "En cas de danger ou remplacement du klaxon",
+      "Dans les embouteillages",
+      "À l'approche d'un radar"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "78-156",
+    "type": "VE",
+    "category": "1ers secours",
+    "question": "Équipement obligatoire avant de quitter un véhicule en panne ?",
+    "options": [
+      "Casque de sécurité",
+      "Gilet haute visibilité",
+      "Gants de travail",
+      "Chaussures fermées"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "79-157",
+    "type": "VI",
+    "category": "Sécurité routière",
+    "question": "Éléments pour un désembuage efficace ?",
+    "options": [
+      "La radio allumée",
+      "Ventilation + air chaud/climatisation",
+      "Ouvrir toutes les fenêtres",
+      "Essuyer avec un chiffon"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "79-158",
+    "type": "VI",
+    "category": "1ers secours",
+    "question": "Objectif du signal SAIP ?",
+    "options": [
+      "Annoncer les actualités",
+      "Alerter d'un danger imminent",
+      "Diffuser de la musique",
+      "Prévenir des embouteillages"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "80-159",
+    "type": "VE",
+    "category": "Sécurité routière",
+    "question": "Risque principal d'un manque d'huile moteur ?",
+    "options": [
+      "Pneus dégonflés",
+      "Détérioration/casse moteur",
+      "Pare-brise fissuré",
+      "Feux qui clignotent"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "80-160",
+    "type": "VE",
+    "category": "1ers secours",
+    "question": "Comment est diffusée l'alerte SAIP ?",
+    "options": [
+      "Par SMS personnalisés",
+      "Sirènes/médias/application SAIP",
+      "Panneaux lumineux en ville",
+      "Courrier postal"
+    ],
+    "answer": 1
+  },
+  
+  {
+    "id": "81-161",
+    "type": "VI",
+    "category": "Sécurité routière",
+    "question": "Risque d'un frein de parking mal desserré ?",
+    "options": [
+      "Usure des pneus",
+      "Dégradation du système de freinage",
+      "Panne de direction",
+      "Surchauffe du moteur"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "81-162",
+    "type": "VI",
+    "category": "1ers secours",
+    "question": "Position du triangle hors autoroute ?",
+    "options": [
+      "Sur le capot",
+      "30 m avant l'obstacle/virage",
+      "Dans le coffre",
+      "Accroché à la fenêtre"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "82-163",
+    "type": "VE",
+    "category": "Sécurité routière",
+    "question": "Conséquences de feux mal réglés ?",
+    "options": [
+      "Usure des essuie-glaces",
+      "Mauvaise visibilité + éblouissement",
+      "Surchauffe du moteur",
+      "Décharge de la batterie"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "82-164",
+    "type": "VE",
+    "category": "1ers secours",
+    "question": "Quand déplacer une victime ?",
+    "options": [
+      "Si elle gêne la circulation",
+      "Danger immédiat incontrôlable",
+      "Pour la mettre à l'aise",
+      "Si elle a froid"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "83-165",
+    "type": "VI",
+    "category": "Sécurité routière",
+    "question": "Risque d'un liquide de refroidissement trop chaud ?",
+    "options": [
+      "Pneus dégonflés",
+      "Surchauffe/casse moteur",
+      "Pare-brise fissuré",
+      "Feux qui grésillent"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "83-166",
+    "type": "VI",
+    "category": "1ers secours",
+    "question": "Pourquoi attendre que les secours raccrochent ?",
+    "options": [
+      "Pour économiser la batterie",
+      "Ils peuvent guider les gestes à faire",
+      "C'est une règle de politesse",
+      "Pour éviter les interférences"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "84-167",
+    "type": "VE",
+    "category": "Sécurité routière",
+    "question": "Qu'est-ce que l'aquaplaning ?",
+    "options": [
+      "Un système de lavage auto",
+      "Perte d'adhérence sur film d'eau",
+      "Un type de pneumatique",
+      "Une fuite du réservoir"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "84-168",
+    "type": "VE",
+    "category": "1ers secours",
+    "question": "Où déplacer une victime en danger ?",
+    "options": [
+      "Dans un rayon de 2 mètres",
+      "Loin du danger et ses conséquences",
+      "Sous un arbre",
+      "Dans un véhicule fermé"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "85-169",
+    "type": "VI",
+    "category": "Sécurité routière",
+    "question": "Quand utiliser les feux de détresse ?",
+    "options": [
+      "En double file",
+      "Panne/accident/ralentissement important",
+      "Pour remercier un usager",
+      "Dans les zones 30"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "85-170",
+    "type": "VI",
+    "category": "1ers secours",
+    "question": "Que faire lors d'une alerte SAIP ?",
+    "options": [
+      "Prendre des photos",
+      "Se mettre en sécurité + suivre consignes",
+      "Appeler ses proches",
+      "Continuer ses activités"
+    ],
+    "answer": 1
+  },
+  
+  {
+    "id": "86-171",
+    "type": "VE",
+    "category": "Sécurité routière",
+    "question": "À quelle fréquence vérifier la pression des pneus ?",
+    "options": [
+      "Tous les 2 ans",
+      "Chaque mois et avant longs trajets",
+      "Seulement en hiver",
+      "Quand le voyant s'allume"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "86-172",
+    "type": "VE",
+    "category": "1ers secours",
+    "question": "Comment protéger une zone d'accident ?",
+    "options": [
+      "Allumer son téléphone portable",
+      "Délimiter clairement et largement",
+      "Crier pour alerter",
+      "Peindre des marques au sol"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "87-173",
+    "type": "VI",
+    "category": "Sécurité routière",
+    "question": "Quand désactiver l'airbag passager ?",
+    "options": [
+      "Toujours le laisser activé",
+      "Siège enfant dos à la route",
+      "Quand le passager est un adulte",
+      "Par temps chaud"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "87-174",
+    "type": "VI",
+    "category": "1ers secours",
+    "question": "Conditions pour déplacer une victime ?",
+    "options": [
+      "Si elle pèse moins de 60kg",
+      "Danger immédiat + déplacement possible",
+      "Uniquement avec deux sauveteurs",
+      "Si elle saigne abondamment"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "88-175",
+    "type": "VE",
+    "category": "Sécurité routière",
+    "question": "Peut-on ouvrir une portière avec sécurité enfant de l'extérieur ?",
+    "options": [
+      "Non, jamais",
+      "Oui",
+      "Seulement avec la clé",
+      "Uniquement sur certains modèles"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "88-176",
+    "type": "VE",
+    "category": "1ers secours",
+    "question": "Risques d'une hémorragie non contrôlée ?",
+    "options": [
+      "Maux de tête",
+      "Arrêt cardiaque/détresse circulatoire",
+      "Fièvre élevée",
+      "Problèmes digestifs"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "89-177",
+    "type": "VI",
+    "category": "Sécurité routière",
+    "question": "À quel âge un enfant peut-il s'asseoir à l'avant ?",
+    "options": [
+      "5 ans",
+      "10 ans (sauf exceptions)",
+      "12 ans",
+      "Dès la naissance"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "89-178",
+    "type": "VI",
+    "category": "1ers secours",
+    "question": "Composition du signal SAIP ?",
+    "options": [
+      "1 son continu de 30 secondes",
+      "SNA (3 cycles) + fin d'alerte (continu)",
+      "5 bips espacés",
+      "Alternance de sons graves/aigus"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "90-179",
+    "type": "VE",
+    "category": "Sécurité routière",
+    "question": "Conséquence d'une panne des feux stop ?",
+    "options": [
+      "Amende immédiate",
+      "Risque de collision pour les usagers derrière",
+      "Impossibilité de démarrer",
+      "Usure prématurée des pneus"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "90-180",
+    "type": "VE",
+    "category": "1ers secours",
+    "question": "Pourquoi attendre que les secours raccrochent ?",
+    "options": [
+      "Pour économiser la batterie",
+      "Ils peuvent donner des consignes cruciales",
+      "C'est la loi",
+      "Pour éviter les interférences"
+    ],
+    "answer": 1
+  },
+  
+  {
+    "id": "91-181",
+    "type": "VI",
+    "category": "Sécurité routière",
+    "question": "Peut-on utiliser les feux de brouillard arrière par forte pluie ?",
+    "options": [
+      "Oui, c'est obligatoire",
+      "Non",
+      "Seulement la nuit",
+      "Uniquement sur autoroute"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "91-182",
+    "type": "VI",
+    "category": "1ers secours",
+    "question": "Signes d'un arrêt cardiaque ?",
+    "options": [
+      "Victime qui parle fort",
+      "Inconscience + absence de respiration",
+      "Battements de cœur rapides",
+      "Transpiration abondante"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "92-183",
+    "type": "VE",
+    "category": "Sécurité routière",
+    "question": "Utilité des feux diurnes ?",
+    "options": [
+      "Remplacer les feux de position",
+      "Améliorer la visibilité diurne",
+      "Économiser l'énergie",
+      "Charger la batterie"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "92-184",
+    "type": "VE",
+    "category": "1ers secours",
+    "question": "Quand raccrocher avec les secours ?",
+    "options": [
+      "Dès qu'on a tout dit",
+      "Quand ils l'autorisent",
+      "Après 1 minute",
+      "Si la victime bouge"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "93-185",
+    "type": "VI",
+    "category": "Sécurité routière",
+    "question": "Risque du recyclage d'air prolongé ?",
+    "options": [
+      "Surchauffe du moteur",
+      "Buée sur les vitres",
+      "Usure du filtre à air",
+      "Mauvaise odeur"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "93-186",
+    "type": "VI",
+    "category": "1ers secours",
+    "question": "Risques pour un inconscient sur le dos ?",
+    "options": [
+      "Brûlures",
+      "Étouffement par la langue",
+      "Engelures",
+      "Crampes"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "94-187",
+    "type": "VE",
+    "category": "Sécurité routière",
+    "question": "Utilise-t-on le triangle sur autoroute ?",
+    "options": [
+      "Oui, c'est obligatoire",
+      "Non",
+      "Seulement la nuit",
+      "Uniquement dans les virages"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "94-188",
+    "type": "VE",
+    "category": "1ers secours",
+    "question": "Que faire face à un arrêt cardiaque ?",
+    "options": [
+      "Attendre les secours",
+      "Alerter-Masser-Défibriller",
+      "Donner à boire",
+      "Refroidir la victime"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "95-189",
+    "type": "VI",
+    "category": "Sécurité routière",
+    "question": "Risque des feux de route mal utilisés ?",
+    "options": [
+      "Panne des ampoules",
+      "Éblouissement des autres conducteurs",
+      "Décharge de la batterie",
+      "Amende automatique"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "95-190",
+    "type": "VI",
+    "category": "1ers secours",
+    "question": "Objectif du signal SAIP ?",
+    "options": [
+      "Annoncer les embouteillages",
+      "Alerter d'un danger imminent",
+      "Diffuser des messages publicitaires",
+      "Signaler un contrôle radar"
+    ],
+    "answer": 1
+  },
+  
+  {
+    "id": "96-191",
+    "type": "VE",
+    "category": "Sécurité routière",
+    "question": "Conséquences d'une panne d'un feu de croisement ?",
+    "options": [
+      "Amende immédiate",
+      "Mauvaise visibilité + confusion avec un 2-roues",
+      "Désactivation des airbags",
+      "Impossibilité de démarrer"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "96-192",
+    "type": "VE",
+    "category": "1ers secours",
+    "question": "Comment évaluer l'état de conscience d'une victime ?",
+    "options": [
+      "Vérifier son portefeuille",
+      "Poser des questions + stimuli physiques",
+      "Observer ses pupilles",
+      "Prendre sa température"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "97-193",
+    "type": "VI",
+    "category": "Sécurité routière",
+    "question": "Comment améliorer la visibilité arrière par temps de pluie ?",
+    "options": [
+      "Allumer les feux de brouillard avant",
+      "Activer le désembuage/dégivrage arrière",
+      "Baisser les vitres",
+      "Accélérer pour évacuer l'eau"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "97-194",
+    "type": "VI",
+    "category": "1ers secours",
+    "question": "Que faire avec une victime inconsciente qui respire ?",
+    "options": [
+      "La laisser sur place",
+      "PLS + alerter + surveiller",
+      "Lui donner à boire",
+      "La couvrir chaudement"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "98-195",
+    "type": "VE",
+    "category": "Sécurité routière",
+    "question": "Risque d'un feu de position arrière défaillant ?",
+    "options": [
+      "Usure des pneus",
+      "Collision par mauvaise visibilité",
+      "Surchauffe du moteur",
+      "Panne électrique générale"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "98-196",
+    "type": "VE",
+    "category": "1ers secours",
+    "question": "Comment est diffusée l'alerte SAIP ?",
+    "options": [
+      "SMS groupés",
+      "Sirènes + médias + appli SAIP",
+      "Panneaux lumineux routiers",
+      "Haut-parleurs de police"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "99-197",
+    "type": "VI",
+    "category": "Sécurité routière",
+    "question": "Fréquence de vérification de la pression des pneus ?",
+    "options": [
+      "Tous les 6 mois",
+      "Tous les mois",
+      "Seulement avant les longs trajets",
+      "Quand le voyant s'allume"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "99-198",
+    "type": "VI",
+    "category": "1ers secours",
+    "question": "Qu'est-ce qu'un arrêt cardiaque ?",
+    "options": [
+      "Cœur qui bat irrégulièrement",
+      "Cœur ne pompant plus efficacement",
+      "Pouls très rapide",
+      "Pression artérielle élevée"
+    ],
+    "answer": 1
+  }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+]
