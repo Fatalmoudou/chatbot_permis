@@ -64,4 +64,37 @@ bash
 Copier
 Modifier
 pip install -r requirements.txt
-4. Configurer MongoDB
+ Répartition des tâches
+->Futur Software Engineer
+ Backend (FastAPI)
+Créer l’API pour exposer les endpoints /quiz et /answer.
+Gérer les routes utilisateurs et l’authentification basique (optionnel).
+Intégrer le LLM (LangChain ou API OpenAI).
+Développer les services métiers (vérification des réponses, logique de quiz).
+Intégration MongoDB
+Connecter le backend à MongoDB.
+
+Gérer les opérations CRUD sur les questions et utilisateurs.
+Créer un schéma propre pour les collections (questions, users, logs).
+LLM
+Mettre en place l’intégration avec LangChain ou Hugging Face.
+ Développer la logique de RAG si nécessaire (connexion avec MongoDB/FAISS).
+Tests & Documentation
+Écrire des tests unitaires pour l’API.
+Documenter les endpoints avec Swagger (inclus dans FastAPI).
+
+👩‍💻 Futur Data Engineer
+Scraping des données
+Identifier les sources légales de questions de code.
+ Écrire un script BeautifulSoup pour récupérer les questions et réponses.
+Nettoyer et transformer les données avec Pandas.
+Pipeline Data
+Automatiser l’insertion des données nettoyées dans MongoDB.
+Gérer les mises à jour et les doublons.
+Structurer les scripts d’ETL pour qu’ils soient réutilisables.
+Indexation et recherche
+Mettre en place un moteur de recherche (MongoDB Atlas Search ou FAISS).
+Générer les embeddings (si RAG implémenté).
+Analyse des données
+Créer des notebooks pour analyser la qualité des données.
+Suivre les statistiques d’utilisation du chatbot.
