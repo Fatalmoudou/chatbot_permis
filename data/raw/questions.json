@@ -1,0 +1,1388 @@
+[
+  {
+    "id": "01-1",
+    "type": "VI : Vérification intérieure",
+    "category": "sur la Sécurité routière",
+    "question": " Pourquoi doit-on",
+    "answer": " Pour ne pas éblouir les autres usagers "
+  },
+  {
+    "id": "01-2",
+    "type": "VI : Vérification intérieure",
+    "category": "sur les 1ers secours",
+    "question": " Comment et pourquoi protéger une zone de danger en cas d’",
+    "answer": " En délimitant clairement et largement la zone de danger de façon visible pour protéger les victimes et éviter un sur-accident "
+  },
+  {
+    "id": "02-3",
+    "type": "VE : Vérification extérieure",
+    "category": "Sécurité routière",
+    "question": " Pourquoi est-il préférable d’utiliser un liquide lave-glace spécial en hiver ? ",
+    "answer": " Pour éviter le gel du liquide "
+  },
+  {
+    "id": "02-4",
+    "type": "VE : Vérification extérieure",
+    "category": "1ers secours",
+    "question": " Quels comportements adopter en cas de diffusion du signal d’alerte du Système d’Alerte et d’Information des Populations (SAIP) ? ",
+    "answer": " Se mettre en sécurité. S’informer grâce aux médias et sites internet des autorités dès que leur consultation est possible. Respecter les consignes des autorités "
+  },
+  {
+    "id": "03-5",
+    "type": "VI",
+    "category": "Sécurité routière",
+    "question": " Quel est l’intérêt de la position nuit du rétroviseur ? ",
+    "answer": " Ne pas être ébloui par les feux du véhicule suiveur "
+  },
+  {
+    "id": "03-6",
+    "type": "VI",
+    "category": "1ers secours",
+    "question": " Comment est composé le signal d’alerte du Système d’Alerte et d’Information des Populations (SAIP) diffusé par les sirènes ? ",
+    "answer": " Il se compose de deux codes distincts : le Signal National d’Alerte (SNA), variation du signal sur trois cycles successifs et le signal de fin d’alerte, signal continu "
+  },
+  {
+    "id": "04-7",
+    "type": "VE",
+    "category": "Sécurité routière",
+    "question": " Citez un endroit où l’on peut trouver les",
+    "answer": " Elles sont indiquées — soit sur une plaque sur une portière — soit dans la notice d’utilisation du véhicule — soit au niveau de la trappe à carburant "
+  },
+  {
+    "id": "04-8",
+    "type": "VE",
+    "category": "1ers secours",
+    "question": " Sur",
+    "answer": " En indiquant le numéro de l’autoroute, le sens de circulation et le point kilométrique "
+  },
+  {
+    "id": "05-9",
+    "type": "VI",
+    "category": "Sécurité routière",
+    "question": " Comment détecter l’usure des essuie-glaces en circulation ? ",
+    "answer": " En cas de pluie, lorsqu’ils laissent des traces sur le pare-brise "
+  },
+  {
+    "id": "05-10",
+    "type": "VI",
+    "category": "1ers secours",
+    "question": " Comment vérifier la respiration d’une victime ? ",
+    "answer": " Regarder si le ventre et la poitrine se soulèvent et sentir de l’air à l’expiration "
+  },
+  {
+    "id": "06-11",
+    "type": "VE",
+    "category": "Sécurité routière",
+    "question": " Quelles sont les précautions à prendre en cas d’installation d’un porte-vélo ? ",
+    "answer": " La plaque d’immatriculation et les feux doivent être visibles "
+  },
+  {
+    "id": "06-12",
+    "type": "VE",
+    "category": "1ers secours",
+    "question": " Qu’est-ce qu’une perte de connaissance ? ",
+    "answer": " C’est lorsque la victime ne répond pas et ne réagit pas, mais respire "
+  },
+  {
+    "id": "07-13",
+    "type": "VI",
+    "category": "Sécurité routière",
+    "question": " En cas de panne ou d’accident, quel autre accessoire de sécurité est obligatoire ? » (Autre que le gilet de haute visibilité)",
+    "answer": " Le triangle de pré-signalisation "
+  },
+  {
+    "id": "07-14",
+    "type": "VI",
+    "category": "1ers secours",
+    "question": " Si un dégagement d’urgence de la victime est nécessaire, où doit-elle être déplacée ? ",
+    "answer": " Dans un endroit suffisamment éloigné du danger et de ses conséquences "
+  },
+  {
+    "id": "08-15",
+    "type": "VE",
+    "category": "Sécurité routière",
+    "question": " Quelle est la conséquence d’un niveau insuffisant du",
+    "answer": " Une perte d’efficacité du freinage "
+  },
+  {
+    "id": "08-16",
+    "type": "VE",
+    "category": "1ers secours",
+    "question": " En cas de panne ou d’accident, quel équipement de sécurité doit être porté avant de quitter le véhicule ? ",
+    "answer": " Il faut porter le gilet de haute visibilité avant de sortir du véhicule "
+  },
+  {
+    "id": "09-17",
+    "type": "VI",
+    "category": "Sécurité routière",
+    "question": " Quels sont les deux autres",
+    "answer": " L’attestation d’assurance et le permis de conduire "
+  },
+  {
+    "id": "09-18",
+    "type": "VI",
+    "category": "1ers secours",
+    "question": " Pourquoi l’alerte auprès des services de secours doit-elle être rapide et précise ?",
+    "answer": "Pour permettre aux services de secours d’apporter les moyens adaptés aux victimes dans le délai le plus court "
+  },
+  {
+    "id": "10-19",
+    "type": "VE",
+    "category": "Sécurité routière",
+    "question": " Quel est le risque de circuler avec des balais d’essuie-glace défectueux ? ",
+    "answer": " Une mauvaise visibilité en cas d’intempéries "
+  },
+  {
+    "id": "10-20",
+    "type": "VE",
+    "category": "1ers secours",
+    "question": " Quels sont les numéros d’urgence à composer ? ",
+    "answer": " Le 18, numéro d’appel des sapeurs-pompiers. Le 15, numéro d’appel des SAMU. Le 112, numéro de téléphone réservé aux appels d’urgence et valide dans l’ensemble de l’Union européenne "
+  },
+  {
+    "id": "11-21",
+    "type": "VI",
+    "category": "Sécurité routière",
+    "question": " Quelles sont les précautions à prendre lors du remplissage du réservoir de carburant ? ",
+    "answer": " Arrêter le moteur, ne pas fumer, ne pas téléphoner "
+  },
+  {
+    "id": "11-22",
+    "type": "VI",
+    "category": "1ers secours",
+    "question": " Quels comportements adopter en présence d’une victime qui ne répond pas et ne réagit pas, mais respire ? ",
+    "answer": " La placer en position stable sur le côté ou position latérale de sécurité. Alerter les secours. Surveiller la respiration de la victime jusqu’à l’arrivée des secours "
+  },
+  {
+    "id": "12-23",
+    "type": "VE",
+    "category": "Sécurité routière",
+    "question": " Quel est le danger si l’on complète le niveau du",
+    "answer": " Un risque de brûlure "
+  },
+  {
+    "id": "12-24",
+    "type": "VE",
+    "category": "1ers secours",
+    "question": " Comment arrêter une hémorragie ? ",
+    "answer": " En appuyant fortement sur l’endroit qui saigne avec les doigts ou avec la paume de la main en mettant un tissu propre sur la plaie "
+  },
+  {
+    "id": "13-25",
+    "type": "VI",
+    "category": "Sécurité routière",
+    "question": " Quelle peut être la conséquence d’une panne de dégivrage de la lunette arrière ? ",
+    "answer": " Une insuffisance ou une absence de visibilité vers l’arrière "
+  },
+  {
+    "id": "13-26",
+    "type": "VI",
+    "category": "1ers secours",
+    "question": " Hors autoroute ou endroit dangereux, en cas de panne ou d’accident, où doit être placé le triangle de pré-signalisation ? ",
+    "answer": " Le triangle de pré-signalisation doit être placé à une distance d’environ 30 m de la panne ou de l’accident, ou avant un virage, ou un sommet de côte "
+  },
+  {
+    "id": "14-27",
+    "type": "VE",
+    "category": "Sécurité routière",
+    "question": " Quelle est la signification d’un clignotement plus rapide ? ",
+    "answer": " Non-fonctionnement de l’une des ampoules "
+  },
+  {
+    "id": "14-28",
+    "type": "VE",
+    "category": "1ers secours",
+    "question": " Quelles sont les conditions pour réaliser le dégagement d’urgence d’une victime en présence d’un danger réel, immédiat et non contrôlable ? ",
+    "answer": " La victime doit être visible, facile à atteindre et rien ne doit gêner son dégagement. Il faut être sûr(e) de pouvoir réaliser le dégagement de la victime "
+  },
+  {
+    "id": "15-29",
+    "type": "VI",
+    "category": "Sécurité routière",
+    "question": " Quelles sont les conditions à respecter pour contrôler le",
+    "answer": " Moteur froid et sur un terrain plat "
+  },
+  {
+    "id": "15-30",
+    "type": "VI",
+    "category": "1ers secours",
+    "question": " Quelles sont les trois informations à transmettre aux services de secours ? ",
+    "answer": " Le numéro de téléphone à partir duquel l’appel est émis, la nature et la localisation la plus précise du problème "
+  },
+  {
+    "id": "16-31",
+    "type": "VE",
+    "category": "Sécurité routière",
+    "question": " Dans quels cas utilise-t-on les",
+    "answer": " Par temps de brouillard et neige "
+  },
+  {
+    "id": "16-32",
+    "type": "VE",
+    "category": "1ers secours",
+    "question": " Par quels moyens doit être réalisée l’alerte des secours ? ",
+    "answer": " L’alerte doit être donnée à l’aide d’un téléphone portable ou, à défaut, d’un téléphone fixe ou d’une borne d’appel d’urgence "
+  },
+  {
+    "id": "17-33",
+    "type": "VI",
+    "category": "Sécurité routière",
+    "question": " À partir de quel",
+    "answer": " 0,2 g/l, c’est-à-dire 0 verre, car dès le 1er verre ce seuil peut être dépassé "
+  },
+  {
+    "id": "17-34",
+    "type": "VI",
+    "category": "1ers secours",
+    "question": " Quel comportement doit-on adopter en présence d’une victime en arrêt cardiaque ? ",
+    "answer": " ALERTER : alerter immédiatement les secours. MASSER : pratiquer une réanimation cardio-pulmonaire. DEFIBRILLER: utiliser un défibrillateur automatique (DAE) si possible "
+  },
+  {
+    "id": "18-35",
+    "type": "VE",
+    "category": "Sécurité routière",
+    "question": " Dans quels cas doit-on utiliser les",
+    "answer": " En cas de panne, d’accident ou de ralentissement important "
+  },
+  {
+    "id": "18-36",
+    "type": "VE",
+    "category": "1ers secours",
+    "question": " Dans quel cas peut-on positionner une victime en Position Latérale de Sécurité (PLS) ? ",
+    "answer": " Si la victime ne répond pas, ne réagit pas et respire "
+  },
+  {
+    "id": "19-37",
+    "type": "VI",
+    "category": "Sécurité routière",
+    "question": " Pourquoi est-il important de bien régler son volant ? Citez deux exemples ",
+    "answer": " Le confort de conduite. L’accessibilité aux commandes. La visibilité du tableau de bord. L’efficacité des airbags "
+  },
+  {
+    "id": "19-38",
+    "type": "VI",
+    "category": "1ers secours",
+    "question": " Dans quelle situation peut-on déplacer une victime ? ",
+    "answer": " En présence d’un danger réel, immédiat, non contrôlable. Le déplacement de la victime doit rester exceptionnel "
+  },
+  {
+    "id": "20-39",
+    "type": "VE",
+    "category": "Sécurité routière",
+    "question": " Citez un cas d’utilisation de",
+    "answer": " Pour avertir de son approche. En cas de danger. À la place de l’avertisseur sonore "
+  },
+  {
+    "id": "20-40",
+    "type": "VE",
+    "category": "1ers secours",
+    "question": " En cas de panne ou d’accident, quel équipement de sécurité doit être porté avant de quitter le véhicule ? ",
+    "answer": " Il faut porter le gilet de haute visibilité avant de sortir du véhicule "
+  },
+  {
+    "id": "21-41",
+    "type": "VI",
+    "category": "Sécurité routière",
+    "question": " Citez deux éléments complémentaires permettant un désembuage efficace ",
+    "answer": " La commande de vitesse de ventilation. La commande d’air chaud. La climatisation "
+  },
+  {
+    "id": "21-42",
+    "type": "VI",
+    "category": "1ers secours",
+    "question": " Quel est l’objectif du Signal d’Alerte et d’Information des Populations (SAIP) ? ",
+    "answer": " Avertir la population d’un danger imminent ou qu’un événement grave est en train de se produire "
+  },
+  {
+    "id": "22-43",
+    "type": "VE",
+    "category": "Sécurité routière",
+    "question": " Quel est le principal risque d’un manque d’huile moteur ? ",
+    "answer": " Un risque de détérioration ou de casse du moteur "
+  },
+  {
+    "id": "22-44",
+    "type": "VE",
+    "category": "1ers secours",
+    "question": " Comment est diffusée l’alerte émise par le Signal d’Alerte et d’Information aux Populations (SAIP) ? ",
+    "answer": " Grâce aux sirènes, aux médias tels que Radio France et France Télévision ou encore grâce à l’application SAIP "
+  },
+  {
+    "id": "23-45",
+    "type": "VI",
+    "category": "Sécurité routière",
+    "question": " Qu’est-ce qui peut provoquer la décharge de la batterie, moteur éteint ? ",
+    "answer": " Les feux ou accessoires électriques en fonctionnement "
+  },
+  {
+    "id": "23-46",
+    "type": "VI",
+    "category": "1ers secours",
+    "question": " À partir de quel âge peut-on suivre une formation aux premiers secours ? ",
+    "answer": " À partir de 10 ans "
+  },
+  {
+    "id": "24-47",
+    "type": "VE",
+    "category": "Sécurité routière",
+    "question": " Quelle est la solution en cas de panne de batterie pour démarrer le véhicule sans le déplacer ? ",
+    "answer": " Brancher une deuxième batterie en parallèle (ou les “+” ensemble et les “— ” ensemble) ou la remplacer "
+  },
+  {
+    "id": "24-48",
+    "type": "VE",
+    "category": "1ers secours",
+    "question": " Pourquoi faut-il pratiquer immédiatement une réanimation cardio-pulmonaire sur une victime en arrêt cardiaque ? ",
+    "answer": " Car les lésions du cerveau surviennent dès les premières minutes "
+  },
+  {
+    "id": "25-49",
+    "type": "VI",
+    "category": "Sécurité routière",
+    "question": " Quel est le risque de circuler avec un",
+    "answer": " Une dégradation du système de freinage "
+  },
+  {
+    "id": "25-50",
+    "type": "VI",
+    "category": "1ers secours",
+    "question": " Hors autoroute ou endroit dangereux, en cas de panne ou d’accident, où doit être placé le triangle de pré-signalisation ? ",
+    "answer": " Le triangle de pré-signalisation doit être placé à une distance d’environ 30 m de la panne ou de l’accident, ou avant un virage, ou un sommet de côte "
+  },
+  {
+    "id": "26-51",
+    "type": "VE",
+    "category": "Sécurité routière",
+    "question": " Quelles sont les conséquences d’un mauvais réglage des",
+    "answer": " Une mauvaise vision vers l’avant et un risque d’éblouissement des autres usagers "
+  },
+  {
+    "id": "26-52",
+    "type": "VE",
+    "category": "1ers secours",
+    "question": " Dans quelle situation peut-on déplacer une victime ? ",
+    "answer": " En présence d’un danger réel, immédiat, non contrôlable. Le déplacement de la victime doit rester exceptionnel "
+  },
+  {
+    "id": "27-53",
+    "type": "VI",
+    "category": "Sécurité routière",
+    "question": " Quelle est la conséquence d’une température trop élevée du liquide de refroidissement ? ",
+    "answer": " Une surchauffe ou une casse moteur "
+  },
+  {
+    "id": "27-54",
+    "type": "VI",
+    "category": "1ers secours",
+    "question": " Lors d’un appel avec les services de secours, pourquoi devez-vous attendre que votre correspondant vous autorise à raccrocher ? ",
+    "answer": " Car il peut nous conseiller ou nous guider dans la réalisation des gestes à faire, ou ne pas faire, jusqu’à l’arrivée des secours "
+  },
+  {
+    "id": "28-55",
+    "type": "VE",
+    "category": "Sécurité routière",
+    "question": " Quelle est l’utilité des dispositifs réfléchissants ? ",
+    "answer": " Rendre visible le véhicule la nuit "
+  },
+  {
+    "id": "28-56",
+    "type": "VE",
+    "category": "1ers secours",
+    "question": " À quel moment pouvez-vous mettre fin à un appel avec les secours ? ",
+    "answer": " Uniquement lorsque notre correspondant nous invite à le faire "
+  },
+  {
+    "id": "29-57",
+    "type": "VI",
+    "category": "Sécurité routière",
+    "question": " Quelle précaution dois-je prendre pour que les",
+    "answer": " Actionner la sécurité enfant sur les deux portières arrière "
+  },
+  {
+    "id": "29-58",
+    "type": "VI",
+    "category": "1ers secours",
+    "question": " Citez les trois manières d’évaluer l’état de conscience d’une victime ",
+    "answer": " Lui poser des questions simples (“comment ça va ?”, “vous m’entendez ?”). Lui secouer doucement les épaules. Lui prendre la main en lui demandant d’exécuter un geste simple (“serrez-moi la main”) "
+  },
+  {
+    "id": "30-59",
+    "type": "VE",
+    "category": "Sécurité routière",
+    "question": " Par temps clair, à quelle distance les",
+    "answer": " À 150 mètres "
+  },
+  {
+    "id": "30-60",
+    "type": "VE",
+    "category": "1ers secours",
+    "question": " Quels sont les risques pour une personne en perte de connaissance qui est allongée sur le dos ? ",
+    "answer": " L’arrêt respiratoire et l’arrêt cardiaque "
+  },
+  {
+    "id": "31-61",
+    "type": "VI",
+    "category": "Sécurité routière",
+    "question": " Quand utilise-t-on les feux de détresse ? ",
+    "answer": " En cas de panne, d’accident ou de ralentissement important "
+  },
+  {
+    "id": "31-62",
+    "type": "VI",
+    "category": "1ers secours",
+    "question": " Quels comportements adopter en cas de diffusion du signal d’alerte du Système d’Alerte et d’Information des Populations (SAIP) ? ",
+    "answer": " Se mettre en sécurité. S’informer grâce aux médias et sites internet des autorités dès que leur consultation est possible. Respecter les consignes des autorités "
+  },
+  {
+    "id": "32-63",
+    "type": "VE",
+    "category": "Sécurité routière",
+    "question": " Qu’est-ce que l’aquaplanage et quelle peut être sa conséquence ? ",
+    "answer": " La présence d’un film d’eau entre le pneumatique et la chaussée pouvant entraîner une perte de contrôle du véhicule "
+  },
+  {
+    "id": "32-64",
+    "type": "VE",
+    "category": "1ers secours",
+    "question": " Si un dégagement d’urgence de la victime est nécessaire, où doit-elle être déplacée ? ",
+    "answer": " Dans un endroit suffisamment éloigné du danger et de ses conséquences "
+  },
+  {
+    "id": "33-65",
+    "type": "VI",
+    "category": "Sécurité routière",
+    "question": " Sans actionner la commande du",
+    "answer": " En appuyant sur la pédale de frein ou d’embrayage "
+  },
+  {
+    "id": "33-66",
+    "type": "VI",
+    "category": "1ers secours",
+    "question": " Sur autoroute, comment indiquer avec précision les lieux de l’accident depuis un téléphone portable ? ",
+    "answer": " En indiquant le numéro de l’autoroute, le sens de circulation et le point kilométrique "
+  },
+  {
+    "id": "34-67",
+    "type": "VE",
+    "category": "Sécurité routière",
+    "question": " Quelles sont les précautions à prendre lors du remplissage du réservoir de carburant ? ",
+    "answer": " Arrêter le moteur, ne pas fumer, ne pas téléphoner "
+  },
+  {
+    "id": "34-68",
+    "type": "VE",
+    "category": "1ers secours",
+    "question": " Pourquoi l’alerte auprès des services de secours doit-elle être rapide et précise ? ",
+    "answer": " Pour permettre aux services de secours d’apporter les moyens adaptés aux victimes dans le délai le plus court "
+  },
+  {
+    "id": "35-69",
+    "type": "VI",
+    "category": "Sécurité routière",
+    "question": " Dans quel cas peut-on utiliser l’avertisseur sonore en agglomération ? ",
+    "answer": " En cas de danger immédiat "
+  },
+  {
+    "id": "35-70",
+    "type": "VI",
+    "category": "1ers secours",
+    "question": " Pourquoi ne faut-il pas laisser une personne en perte de connaissance allongée sur le dos ? ",
+    "answer": " Car elle risque un étouffement par des liquides présents dans la gorge et la chute de la langue en arrière "
+  },
+  {
+    "id": "36-71",
+    "type": "VE",
+    "category": "Sécurité routière",
+    "question": " Quel est le risque d’un manque d’huile moteur ? ",
+    "answer": " Un risque de détérioration ou de casse du moteur "
+  },
+  {
+    "id": "36-72",
+    "type": "VE",
+    "category": "1ers secours",
+    "question": "",
+    "answer": " Non, car le défibrillateur se déclenche uniquement quand la victime est en arrêt cardiaque "
+  },
+  {
+    "id": "37-73",
+    "type": "VI",
+    "category": "Sécurité routière",
+    "question": " Dans quelle situation doit-on désactiver",
+    "answer": " Lors du transport d’un enfant à l’avant dans un siège auto, dos à la route "
+  },
+  {
+    "id": "37-74",
+    "type": "VI",
+    "category": "1ers secours",
+    "question": " Quelles sont les conditions pour réaliser le dégagement d’urgence d’une victime en présence d’un danger réel, immédiat et non contrôlable ? ",
+    "answer": " La victime doit être visible, facile à atteindre et rien ne doit gêner son dégagement. Il faut être sûr(e) de pouvoir réaliser le dégagement de la victime "
+  },
+  {
+    "id": "38-75",
+    "type": "VE",
+    "category": "Sécurité routière",
+    "question": " À quelle fréquence est-il préconisé de vérifier la pression des pneus ? ",
+    "answer": " Chaque mois, pour une utilisation normale de son véhicule, et avant chaque long trajet "
+  },
+  {
+    "id": "38-76",
+    "type": "VE",
+    "category": "1ers secours",
+    "question": " Comment et pourquoi protéger une zone de danger en cas d’accident de la route ? ",
+    "answer": " En délimitant clairement et largement la zone de danger de façon visible pour protéger les victimes et éviter un sur-accident "
+  },
+  {
+    "id": "39-77",
+    "type": "VI",
+    "category": "Sécurité routière",
+    "question": " En règle générale,",
+    "answer": " 10 ans "
+  },
+  {
+    "id": "39-78",
+    "type": "VI",
+    "category": "1ers secours",
+    "question": " Comment est composé le signal d’alerte du Système d’Alerte et d’Information des Populations (SAIP) diffusé par les sirènes ? ",
+    "answer": " Il se compose de deux codes distincts : — Le Signal National d’Alerte (SNA), variation du signal sur trois cycles successifs — Le signal de fin d’alerte, signal continu "
+  },
+  {
+    "id": "40-79",
+    "type": "VE",
+    "category": "Sécurité routière",
+    "question": " Un défaut d’éclairage de la plaque d’immatriculation lors du contrôle technique entraîne-t-il une contre-visite ? ",
+    "answer": " Oui "
+  },
+  {
+    "id": "40-80",
+    "type": "VE",
+    "category": "1ers secours",
+    "question": " Quelles sont les trois informations à transmettre aux services de secours ? ",
+    "answer": " Le numéro de téléphone à partir duquel l’appel est émis, la nature et la localisation la plus précise du problème "
+  },
+  {
+    "id": "41-81",
+    "type": "VI",
+    "category": "Sécurité routière",
+    "question": " Quels sont les deux autres documents obligatoires à présenter en cas de contrôle par les forces de l’ordre ? » (Autre que",
+    "answer": " Le"
+  },
+  {
+    "id": "41-82",
+    "type": "VI",
+    "category": "1ers secours",
+    "question": " Qu’est-ce qu’une hémorragie ? ",
+    "answer": " C’est une perte de sang prolongée qui ne s’arrête pas. Elle imbibe de sang un mouchoir en quelques secondes "
+  },
+  {
+    "id": "42-83",
+    "type": "VE",
+    "category": "Sécurité routière",
+    "question": " Si la sécurité enfant est enclenchée, est-il possible d’ouvrir la portière arrière depuis l’extérieur ? ",
+    "answer": " Oui "
+  },
+  {
+    "id": "42-84",
+    "type": "VE",
+    "category": "1ers secours",
+    "question": " Quels sont les risques pour une personne victime d’une hémorragie ? ",
+    "answer": " Entraîner pour la victime une détresse circulatoire ou un arrêt cardiaque "
+  },
+  {
+    "id": "43-85",
+    "type": "VI",
+    "category": "Sécurité routière",
+    "question": " Pouvez-vous utiliser les feux de brouillard arrière par forte pluie ? ",
+    "answer": " Non "
+  },
+  {
+    "id": "43-86",
+    "type": "VI",
+    "category": "1ers secours",
+    "question": " Quels sont les signes d’un arrêt cardiaque ? ",
+    "answer": " La victime ne répond pas, ne réagit pas et ne respire pas ou présente une respiration anormale "
+  },
+  {
+    "id": "44-87",
+    "type": "VE",
+    "category": "Sécurité routière",
+    "question": " Quelles sont les deux utilités des feux de recul ? ",
+    "answer": " Éclairer la zone de recul la nuit. Avertir les autres usagers de la manœuvre "
+  },
+  {
+    "id": "44-88",
+    "type": "VE",
+    "category": "1ers secours",
+    "question": " Qu’est-ce qu’un défibrillateur automatisé externe (DAE) ? ",
+    "answer": " C’est un appareil qui peut permettre de rétablir une activité cardiaque normale à une victime en arrêt cardiaque "
+  },
+  {
+    "id": "45-89",
+    "type": "VI",
+    "category": "Sécurité routière",
+    "question": " Quelle est l’utilité de l’appuie-tête ? ",
+    "answer": " Permets de retenir le mouvement de la tête en cas de choc et de limiter les blessures "
+  },
+  {
+    "id": "45-90",
+    "type": "VI",
+    "category": "1ers secours",
+    "question": " Par quels moyens doit être réalisée l’alerte des secours ? ",
+    "answer": " L’alerte doit être donnée à l’aide d’un téléphone portable ou, à défaut, d’un téléphone fixe, ou d’une borne d’appel d’urgence "
+  },
+  {
+    "id": "46-91",
+    "type": "VE",
+    "category": "Sécurité routière",
+    "question": " Quelle est la conséquence en cas de panne des",
+    "answer": " Un manque d’information pour les usagers suiveurs et un risque de collision "
+  },
+  {
+    "id": "46-92",
+    "type": "VE",
+    "category": "1ers secours",
+    "question": " Lors d’un appel avec les services de secours, pourquoi devez-vous attendre que votre correspondant vous autorise à raccrocher ? ",
+    "answer": " Car il peut nous conseiller ou nous guider dans la réalisation des gestes à faire, ou ne pas faire, jusqu’à l’arrivée des secours "
+  },
+  {
+    "id": "47-93",
+    "type": "VI",
+    "category": "Sécurité routière",
+    "question": " Quelle est la différence entre un",
+    "answer": " Rouge : Une anomalie de fonctionnement ou un danger. Orange : un élément important "
+  },
+  {
+    "id": "47-94",
+    "type": "VI",
+    "category": "1ers secours",
+    "question": " Qu’est-ce qu’un arrêt cardiaque ? ",
+    "answer": " Le cœur ne fonctionne plus ou fonctionne d’une façon anarchique "
+  },
+  {
+    "id": "48-95",
+    "type": "VE",
+    "category": "Sécurité routière",
+    "question": " En roulant, quel est le risque d’une mauvaise fermeture du capot ? ",
+    "answer": " Un risque d’ouverture du capot pouvant entraîner un accident "
+  },
+  {
+    "id": "48-96",
+    "type": "VE",
+    "category": "1ers secours",
+    "question": " Quel est le risque principal d’un arrêt cardiaque sans intervention des secours ? ",
+    "answer": " La mort de la victime qui survient en quelques minutes "
+  },
+  {
+    "id": "49-97",
+    "type": "VI",
+    "category": "Sécurité routière",
+    "question": " Quel peut être le risque de maintenir le recyclage de l’air de manière prolongée ? ",
+    "answer": " Un risque de mauvaise visibilité par l’apparition de buée sur les surfaces vitrées "
+  },
+  {
+    "id": "49-98",
+    "type": "VI",
+    "category": "1ers secours",
+    "question": " Quels sont les risques pour une personne en perte de connaissance qui est allongée sur le dos ? ",
+    "answer": " L’arrêt respiratoire et l’arrêt cardiaque "
+  },
+  {
+    "id": "50-99",
+    "type": "VE",
+    "category": "Sécurité routière",
+    "question": " Quel est le principal risque d’une absence de liquide lave-glace ? ",
+    "answer": " Une mauvaise visibilité "
+  },
+  {
+    "id": "50-100",
+    "type": "VE",
+    "category": "1ers secours",
+    "question": " Pourquoi faut-il pratiquer immédiatement une réanimation cardio-pulmonaire sur une victime en arrêt cardiaque ? ",
+    "answer": " Car les lésions du cerveau surviennent dès les premières minutes "
+  },
+  {
+    "id": "51-101",
+    "type": "VI",
+    "category": "Sécurité routière",
+    "question": " Quel est le risque de maintenir les",
+    "answer": " Un risque d’éblouissement des autres usagers "
+  },
+  {
+    "id": "51-102",
+    "type": "VI",
+    "category": "1ers secours",
+    "question": " Quel est l’objectif du Signal d’Alerte et d’Information des Populations (SAIP) ? ",
+    "answer": " Avertir la population d’un danger imminent ou qu’un événement grave est en train de se produire "
+  },
+  {
+    "id": "52-103",
+    "type": "VE",
+    "category": "Sécurité routière",
+    "question": " Quelle est l’utilité des",
+    "answer": " Rendre le véhicule plus visible le jour "
+  },
+  {
+    "id": "52-104",
+    "type": "VE",
+    "category": "1ers secours",
+    "question": " À quel moment pouvez-vous mettre fin à un appel avec les secours ? ",
+    "answer": " Uniquement lorsque notre correspondant nous invite à le faire "
+  },
+  {
+    "id": "53-105",
+    "type": "VI",
+    "category": "Sécurité routière",
+    "question": " En cas d’accident, dans quel délai le",
+    "answer": " 5 jours "
+  },
+  {
+    "id": "53-106",
+    "type": "VI",
+    "category": "1ers secours",
+    "question": " Quel est le risque principal d’un arrêt cardiaque sans intervention des secours ? ",
+    "answer": " La mort de la victime qui survient en quelques minutes "
+  },
+  {
+    "id": "54-107",
+    "type": "VE",
+    "category": "Sécurité routière",
+    "question": " Utilise-t-on le triangle de pré-signalisation sur autoroute ? ",
+    "answer": " Non "
+  },
+  {
+    "id": "54-108",
+    "type": "VE",
+    "category": "1ers secours",
+    "question": " Quel comportement doit-on adopter en présence d’une victime en arrêt cardiaque ? ",
+    "answer": " ALERTER : alerter immédiatement les secours. MASSER : pratiquer une réanimation cardio-pulmonaire. DEFIBRILLER : utiliser un défibrillateur automatique (DAE) si possible "
+  },
+  {
+    "id": "55-109",
+    "type": "VI",
+    "category": "Sécurité routière",
+    "question": " Quel est le risque de circuler avec un frein de parking mal desserré ? ",
+    "answer": " Une dégradation du système de freinage "
+  },
+  {
+    "id": "55-110",
+    "type": "VI",
+    "category": "1ers secours",
+    "question": " Comment arrêter une hémorragie ? ",
+    "answer": " En appuyant fortement sur l’endroit qui saigne avec les doigts ou avec la paume de la main en mettant un tissu propre sur la plaie "
+  },
+  {
+    "id": "56-111",
+    "type": "VE",
+    "category": "Sécurité routière",
+    "question": " Quelles sont les conséquences en cas de panne d’un feu de croisement ? ",
+    "answer": " Une mauvaise visibilité et le risque d’être confondu avec un deux roues "
+  },
+  {
+    "id": "56-112",
+    "type": "VE",
+    "category": "1ers secours",
+    "question": " Citez les trois manières d’évaluer l’état de conscience d’une victime ? ",
+    "answer": " Lui poser des questions simples (“comment ça va ?”, “vous m’entendez ?”). Lui secouer doucement les épaules. Lui prendre la main en lui demandant d’exécuter un geste simple (“serrez-moi la main”) "
+  },
+  {
+    "id": "57-113",
+    "type": "VI",
+    "category": "Sécurité routière",
+    "question": " Quelle est l’utilité d’un limiteur de vitesse ? ",
+    "answer": " Ne pas dépasser la vitesse programmée par le conducteur "
+  },
+  {
+    "id": "57-114",
+    "type": "VI",
+    "category": "1ers secours",
+    "question": " Quels sont les numéros d’urgence à appeler ? ",
+    "answer": " Le 18, numéro d’appel des sapeurs-pompiers. Le 15, numéro d’appel des SAMU. Le 112, numéro de téléphone réservé aux appels d’urgence et valide dans l’ensemble de l’Union européenne "
+  },
+  {
+    "id": "58-115",
+    "type": "VE",
+    "category": "Sécurité routière",
+    "question": " Quelles sont les conséquences en cas de panne d’un feu de position arrière ? ",
+    "answer": " Être mal vu et un risque de collision "
+  },
+  {
+    "id": "58-116",
+    "type": "VE",
+    "category": "1ers secours",
+    "question": " Comment est diffusée l’alerte émise par le Signal d’Alerte et d’Information aux Populations (SAIP) ? ",
+    "answer": " Grâce aux sirènes, aux médias tels que Radio France et France Télévision ou encore grâce à l’application SAIP "
+  },
+  {
+    "id": "59-117",
+    "type": "VI",
+    "category": "Sécurité routière",
+    "question": " Pour une bonne visibilité vers l’arrière, en plus de l’utilisation de l’essuie-glace, quelle commande pouvez-vous actionner par temps de pluie ? ",
+    "answer": " La commande de désembuage arrière. Le terme dégivrage peut remplacer celui de désembuage "
+  },
+  {
+    "id": "59-118",
+    "type": "VI",
+    "category": "1ers secours",
+    "question": " Quels comportements adopter en présence d’une victime qui ne répond pas et ne réagit pas, mais respire ? ",
+    "answer": " La placer en position stable sur le côté ou position latérale de sécurité. Alerter les secours. Surveiller la respiration de la victime jusqu’à l’arrivée des secours "
+  },
+  {
+    "id": "60-119",
+    "type": "VE",
+    "category": "Sécurité routière",
+    "question": " Lorsque vous transportez un poids important dans le coffre, quelles sont les précautions à prendre en ce qui concerne les pneumatiques et l’éclairage avant ? ",
+    "answer": " Augmenter la pression des pneumatiques et régler la hauteur des feux avant "
+  },
+  {
+    "id": "60-120",
+    "type": "VE",
+    "category": "1ers secours",
+    "question": " L’utilisation d’un Défibrillateur Automatisé (DAE) sur une victime qui n’est pas en arrêt cardiaque présente-t-elle un risque ? ",
+    "answer": " Non, car le défibrillateur se déclenche uniquement quand la victime est en arrêt cardiaque "
+  },
+  {
+    "id": "61-121",
+    "type": "VI",
+    "category": "Sécurité routière",
+    "question": " Peut-on fixer tous les sièges enfants sur des attaches de type Isofix ? ",
+    "answer": " Non (uniquement ceux compatibles avec ce type d’attache) "
+  },
+  {
+    "id": "61-122",
+    "type": "VI",
+    "category": "1ers secours",
+    "question": " Comment vérifier la respiration d’une victime ? ",
+    "answer": " Regarder si le ventre et la poitrine se soulèvent et sentir de l’air à l’expiration "
+  },
+  {
+    "id": "62-123",
+    "type": "VE",
+    "category": "Sécurité routière",
+    "question": " Quels sont les risques de",
+    "answer": " Une mauvaise visibilité vers l’arrière et un risque de projection en cas de freinage brusque ou de choc "
+  },
+  {
+    "id": "62-124",
+    "type": "VE",
+    "category": "1ers secours",
+    "question": " Qu’est-ce qu’une hémorragie ? ",
+    "answer": " C’est une perte de sang prolongée qui ne s’arrête pas. Elle imbibe de sang un mouchoir en quelques secondes "
+  },
+  {
+    "id": "63-125",
+    "type": "VI",
+    "category": "Sécurité routière",
+    "question": " À quelle fréquence est-il préconisé de vérifier la pression d’air des pneumatiques ? ",
+    "answer": " Tous les mois "
+  },
+  {
+    "id": "63-126",
+    "type": "VI",
+    "category": "1ers secours",
+    "question": " Qu’est-ce qu’un arrêt cardiaque ? ",
+    "answer": " Le cœur ne fonctionne plus ou fonctionne d’une façon anarchique "
+  },
+  {
+    "id": "64-127",
+    "type": "VE",
+    "category": "Sécurité routière",
+    "question": " Pour un capot s’ouvrant depuis l’avant du véhicule, quelle est l’utilité du dispositif de sécurité ? ",
+    "answer": " Empêcher l’ouverture du capot en circulation en cas de mauvais verrouillage "
+  },
+  {
+    "id": "64-128",
+    "type": "VE",
+    "category": "1ers secours",
+    "question": " Quels sont les risques pour une personne victime d’une hémorragie ? ",
+    "answer": " Entraîner pour la victime une détresse circulatoire ou un arrêt cardiaque "
+  },
+  {
+    "id": "65-129",
+    "type": "VI",
+    "category": "Sécurité routière",
+    "question": " Pourquoi doit-on régler la hauteur des feux ? ",
+    "answer": " Pour ne pas éblouir les autres usagers "
+  },
+  {
+    "id": "65-130",
+    "type": "VI",
+    "category": "1ers secours",
+    "question": " Comment et pourquoi protéger une zone de danger en cas d’accident de la route ? ",
+    "answer": " En délimitant clairement et largement la zone de danger de façon visible pour protéger les victimes et éviter un sur-accident "
+  },
+  {
+    "id": "66-131",
+    "type": "VE",
+    "category": "Sécurité routière",
+    "question": " Quelle est la principale conséquence d’un dispositif de lave-glace défaillant ? ",
+    "answer": " Une mauvaise visibilité due à l’impossibilité de nettoyer le pare-brise "
+  },
+  {
+    "id": "66-132",
+    "type": "VE",
+    "category": "1ers secours",
+    "question": " Qu’est-ce qu’un défibrillateur automatisé externe (DAE) ? ",
+    "answer": " C’est un appareil qui peut permettre de rétablir une activité cardiaque normale à une victime en arrêt cardiaque "
+  },
+  {
+    "id": "67-133",
+    "type": "VI",
+    "category": "Sécurité routière",
+    "question": " Quel est l’intérêt de la position nuit du rétroviseur intérieur ? ",
+    "answer": " Ne pas être ébloui par les feux du véhicule suiveur "
+  },
+  {
+    "id": "67-134",
+    "type": "VI",
+    "category": "1ers secours",
+    "question": " Comment est composé le signal d’alerte du Système d’Alerte et d’Information des Populations (SAIP) diffusé par les sirènes ? ",
+    "answer": " Il se compose de deux codes distincts : le Signal National d’Alerte (SNA), variation du signal sur trois cycles successifs et le signal de fin d’alerte, signal continu "
+  },
+  {
+    "id": "68-135",
+    "type": "VE",
+    "category": "Sécurité routière",
+    "question": " Citez un endroit où l’on peut trouver les pressions préconisées pour les pneumatiques ? ",
+    "answer": " Elles sont indiquées : soit sur une plaque sur une portière, soit dans la notice d’utilisation du véhicule, soit au niveau de la trappe à carburant "
+  },
+  {
+    "id": "68-136",
+    "type": "VE",
+    "category": "1ers secours",
+    "question": " Sur autoroute, comment indiquer avec précision les lieux de l’accident depuis un téléphone portable ? ",
+    "answer": " En indiquant le numéro de l’autoroute, le sens de circulation et le point kilométrique "
+  },
+  {
+    "id": "69-137",
+    "type": "VI",
+    "category": "Sécurité routière",
+    "question": " Comment détecte-t-on l’usure des essuie-glaces en circulation ? ",
+    "answer": " En cas de pluie, lorsqu’ils laissent des traces sur le pare-brise "
+  },
+  {
+    "id": "69-138",
+    "type": "VI",
+    "category": "1ers secours",
+    "question": " Comment vérifier la respiration d’une victime ? ",
+    "answer": " Regarder si le ventre et la poitrine se soulèvent et sentir de l’air à l’expiration "
+  },
+  {
+    "id": "70-139",
+    "type": "VE",
+    "category": "Sécurité routière",
+    "question": " Quelle est la conséquence d’un niveau insuffisant du liquide de frein ? ",
+    "answer": " Une perte d’efficacité du freinage "
+  },
+  {
+    "id": "70-140",
+    "type": "VE",
+    "category": "1ers secours",
+    "question": " En cas de panne ou d’accident, quel équipement de sécurité doit être porté avant de quitter le véhicule ? ",
+    "answer": " Il faut porter le gilet de haute visibilité avant de sortir du véhicule "
+  },
+  {
+    "id": "71-141",
+    "type": "VI",
+    "category": "Sécurité routière",
+    "question": " En cas de panne ou d’accident, quel autre accessoire de sécurité est obligatoire ? » (Autre que le gilet de haute visibilité)",
+    "answer": " Le triangle de pré-signalisation "
+  },
+  {
+    "id": "71-142",
+    "type": "VI",
+    "category": "1ers secours",
+    "question": " Si un dégagement d’urgence de la victime est nécessaire, où doit-elle être déplacée ? ",
+    "answer": " Dans un endroit suffisamment éloigné du danger et de ses conséquences "
+  },
+  {
+    "id": "72-143",
+    "type": "VE",
+    "category": "Sécurité routière",
+    "question": " Quel est le danger si l’on complète le niveau du liquide de refroidissement lorsque le moteur est chaud ? ",
+    "answer": " Un risque de brûlure "
+  },
+  {
+    "id": "72-144",
+    "type": "VE",
+    "category": "1ers secours",
+    "question": " Comment arrêter une hémorragie ? ",
+    "answer": " En appuyant fortement sur l’endroit qui saigne avec les doigts ou avec la paume de la main en mettant un tissu propre sur la plaie "
+  },
+  {
+    "id": "73-145",
+    "type": "VI",
+    "category": "Sécurité routière",
+    "question": " Quelle peut être la conséquence d’une panne de dégivrage de la lunette arrière ? ",
+    "answer": " L’insuffisance ou l’absence de visibilité vers l’arrière "
+  },
+  {
+    "id": "73-146",
+    "type": "VI",
+    "category": "1ers secours",
+    "question": " Hors autoroute ou endroit dangereux, en cas de panne ou d’accident, où doit être placé le triangle de pré-signalisation ? ",
+    "answer": " Le triangle de pré-signalisation doit être placé à une distance d’environ 30 m de la panne ou de l’accident, ou avant un virage, ou un sommet de côte "
+  },
+  {
+    "id": "74-147",
+    "type": "VE",
+    "category": "Sécurité routière",
+    "question": " Quelle est la signification d’un clignotement plus rapide ? ",
+    "answer": " Non-fonctionnement de l’une des ampoules "
+  },
+  {
+    "id": "74-148",
+    "type": "VE",
+    "category": "1ers secours",
+    "question": " Quelles sont les précautions à prendre pour réaliser le dégagement d’urgence d’une victime en présence d’un danger réel, immédiat et non contrôlable ? ",
+    "answer": " La victime doit être visible, facile à atteindre et rien ne doit gêner son dégagement. Il faut être sûr(e) de pouvoir réaliser le dégagement de la victime "
+  },
+  {
+    "id": "75-149",
+    "type": "VI",
+    "category": "Sécurité routière",
+    "question": " Quelles sont les conditions à respecter pour compléter le niveau d’huile moteur ? ",
+    "answer": " Moteur froid et sur un terrain plat "
+  },
+  {
+    "id": "75-150",
+    "type": "VI",
+    "category": "1ers secours",
+    "question": " Quelles sont les trois informations à transmettre aux services de secours ? ",
+    "answer": " Le numéro de téléphone à partir duquel l’appel est émis, la nature et la localisation la plus précise du problème "
+  },
+  {
+    "id": "76-151",
+    "type": "VE",
+    "category": "Sécurité routière",
+    "question": " Dans quels cas doit-on utiliser les feux de détresse ? ",
+    "answer": " En cas de panne, d’accident ou de ralentissement important "
+  },
+  {
+    "id": "76-152",
+    "type": "VE",
+    "category": "1ers secours",
+    "question": " Dans quel cas peut-on positionner une victime en Position Latérale de Sécurité (PLS) ? ",
+    "answer": " Si la victime ne répond pas, ne réagit pas et respire "
+  },
+  {
+    "id": "77-153",
+    "type": "VI",
+    "category": "Sécurité routière",
+    "question": " À partir de quel taux d’alcoolémie, en période de permis probatoire, est-on en infraction ? ",
+    "answer": " 0,2 g/l, c’est-à-dire 0 verre, car dès le 1er verre ce seuil peut être dépassé "
+  },
+  {
+    "id": "77-154",
+    "type": "VI",
+    "category": "1ers secours",
+    "question": " Quel comportement doit-on adopter en présence d’une victime en arrêt cardiaque ? ",
+    "answer": " ALERTER : alerter immédiatement les secours. MASSER : pratiquer une réanimation cardio-pulmonaire. DEFIBRILLER : utiliser un défibrillateur automatique (DAE) si possible "
+  },
+  {
+    "id": "78-155",
+    "type": "VE",
+    "category": "Sécurité routière",
+    "question": " Citez un cas d’utilisation d’un appel lumineux ",
+    "answer": " -Pour avertir de son approche.-En cas de danger. — À la place de l’avertisseur sonore "
+  },
+  {
+    "id": "78-156",
+    "type": "VE",
+    "category": "1ers secours",
+    "question": " En cas de panne ou d’accident, quel équipement de sécurité doit être porté avant de quitter le véhicule ? ",
+    "answer": " Il faut porter le gilet de haute visibilité avant de sortir du véhicule "
+  },
+  {
+    "id": "79-157",
+    "type": "VI",
+    "category": "Sécurité routière",
+    "question": " Citez deux éléments complémentaires permettant un désembuage efficace ? ",
+    "answer": " La commande de vitesse de ventilation. — La commande d’air chaud. — La climatisation "
+  },
+  {
+    "id": "79-158",
+    "type": "VI",
+    "category": "1ers secours",
+    "question": " Quel est l’objectif du Signal d’Alerte et d’Information des Populations (SAIP) ? ",
+    "answer": " Avertir la population d’un danger imminent ou qu’un événement grave est en train de se produire "
+  },
+  {
+    "id": "80-159",
+    "type": "VE",
+    "category": "Sécurité routière",
+    "question": " Quel est le principal risque d’un manque d’huile moteur ? ",
+    "answer": " Un risque de détérioration ou de casse du moteur "
+  },
+  {
+    "id": "80-160",
+    "type": "VE",
+    "category": "1ers secours",
+    "question": " Comment est diffusée l’alerte émise par Le Signal d’Alerte et d’Information aux Populations (SAIP) ? ",
+    "answer": " Grâce aux sirènes, aux médias tels que Radio France et France Télévision ou encore grâce à l’application SAIP "
+  },
+  {
+    "id": "81-161",
+    "type": "VI",
+    "category": "Sécurité routière",
+    "question": " Quel est le risque de circuler avec un frein de parking mal desserré ? ",
+    "answer": " Une dégradation du système de freinage "
+  },
+  {
+    "id": "81-162",
+    "type": "VI",
+    "category": "1ers secours",
+    "question": " En général, en cas de panne ou d’accident, où doit être placé le triangle de pré-signalisation ? ",
+    "answer": " Le triangle de pré-signalisation doit être placé à une distance d’environ 30 m de la panne ou de l’accident, ou avant un virage ou un sommet de côte "
+  },
+  {
+    "id": "82-163",
+    "type": "VE",
+    "category": "Sécurité routière",
+    "question": " Quelles sont les conséquences d’un mauvais réglage des feux de croisement ? ",
+    "answer": " Une mauvaise vision vers l’avant et un risque d’éblouissement des autres usagers "
+  },
+  {
+    "id": "82-164",
+    "type": "VE",
+    "category": "1ers secours",
+    "question": " Dans quelle situation peut-on déplacer une victime ? ",
+    "answer": " En présence d’un danger réel, immédiat, non contrôlable. Ce déplacement doit rester exceptionnel "
+  },
+  {
+    "id": "83-165",
+    "type": "VI",
+    "category": "Sécurité routière",
+    "question": " Quelle est la conséquence d’une température trop élevée du liquide de refroidissement ? ",
+    "answer": " La surchauffe ou la casse moteur "
+  },
+  {
+    "id": "83-166",
+    "type": "VI",
+    "category": "1ers secours",
+    "question": " Lors d’un appel avec les services de secours, pourquoi devez-vous attendre que votre correspondant vous autorise à raccrocher ? ",
+    "answer": " Car il peut nous conseiller ou nous guider dans la réalisation des gestes à faire, ou ne pas faire, jusqu’à l’arrivée des secours "
+  },
+  {
+    "id": "84-167",
+    "type": "VE",
+    "category": "Sécurité routière",
+    "question": " Qu’est-ce que l’aquaplanage, et quelle peut être sa conséquence ? ",
+    "answer": " La présence d’un film d’eau entre le pneumatique et la chaussée pouvant entraîner une perte de contrôle du véhicule "
+  },
+  {
+    "id": "84-168",
+    "type": "VE",
+    "category": "1ers secours",
+    "question": "Si un dégagement d’urgence de la victime est nécessaire, où doit-elle être déplacée ?",
+    "answer": " Dans un endroit suffisamment éloigné du danger et de ses conséquences "
+  },
+  {
+    "id": "85-169",
+    "type": "VI",
+    "category": "Sécurité routière",
+    "question": " Dans quels cas doit-on utiliser les feux de détresse ? ",
+    "answer": " En cas de panne, d’accident ou de ralentissement important "
+  },
+  {
+    "id": "85-170",
+    "type": "VI",
+    "category": "1ers secours",
+    "question": " Quels comportements adopter en cas de diffusion du signal d’alerte du Système d’Alerte et d’Information des Populations (SAIP) ? ",
+    "answer": " Se mettre en sécurité. S’informer grâce aux médias et sites internet des autorités dès que leur consultation est possible. Respecter les consignes des autorités "
+  },
+  {
+    "id": "86-171",
+    "type": "VE",
+    "category": "Sécurité routière",
+    "question": " À quelle fréquence est-il préconisé de vérifier la pression des pneus ? ",
+    "answer": " Chaque mois pour une utilisation normale de son véhicule et avant chaque long trajet "
+  },
+  {
+    "id": "86-172",
+    "type": "VE",
+    "category": "1ers secours",
+    "question": " Comment et pourquoi protéger une zone de danger en cas d’accident de la route ? ",
+    "answer": " En délimitant clairement et largement la zone de danger de façon visible pour protéger les victimes et éviter un sur-accident "
+  },
+  {
+    "id": "87-173",
+    "type": "VI",
+    "category": "Sécurité routière",
+    "question": " Dans quelle situation doit-on désactiver l’airbag passager ? ",
+    "answer": " Lors du transport d’un enfant dans un siège-auto, dos à la route "
+  },
+  {
+    "id": "87-174",
+    "type": "VI",
+    "category": "1ers secours",
+    "question": " Quelles sont les conditions pour réaliser le dégagement d’urgence d’une victime en présence d’un danger réel, immédiat et non contrôlable ? ",
+    "answer": " La victime doit être visible, facile à atteindre et rien ne doit gêner son dégagement. Il faut être sûr(e) de pouvoir réaliser le dégagement de la victime "
+  },
+  {
+    "id": "88-175",
+    "type": "VE",
+    "category": "Sécurité routière",
+    "question": " Si la sécurité enfant est enclenchée, est-il possible d’ouvrir la portière arrière depuis l’extérieur ? ",
+    "answer": " Oui "
+  },
+  {
+    "id": "88-176",
+    "type": "VE",
+    "category": "1ers secours",
+    "question": " Quels sont les risques pour une personne victime d’une hémorragie ? ",
+    "answer": " Entraîner pour la victime une détresse circulatoire ou un arrêt cardiaque "
+  },
+  {
+    "id": "89-177",
+    "type": "VI",
+    "category": "Sécurité routière",
+    "question": " En règle générale, à partir de quel âge un enfant peut-il être installé sur le siège passager avant du véhicule ? ",
+    "answer": " 10 ans "
+  },
+  {
+    "id": "89-178",
+    "type": "VI",
+    "category": "1ers secours",
+    "question": " Comment est composé le signal d’alerte du Système d’Alerte et d’Information des Populations (SAIP) diffusé par les sirènes ? ",
+    "answer": " Il se compose de deux codes distincts : — le Signal National d’Alerte (SNA), variation du signal sur trois cycles successifs. — Le signal de fin d’alerte, signal continu "
+  },
+  {
+    "id": "90-179",
+    "type": "VE",
+    "category": "Sécurité routière",
+    "question": " Quelle est la conséquence en cas de panne des feux de stop ? ",
+    "answer": " Un manque d’information pour les usagers suiveurs et un risque de collision "
+  },
+  {
+    "id": "90-180",
+    "type": "VE",
+    "category": "1ers secours",
+    "question": " Lors d’un appel avec les services de secours, pourquoi devez-vous attendre que votre correspondant vous autorise à raccrocher ? ",
+    "answer": " Car il peut nous conseiller ou nous guider dans la réalisation des gestes à faire, ou ne pas faire, jusqu’à l’arrivée des secours "
+  },
+  {
+    "id": "91-181",
+    "type": "VI",
+    "category": "Sécurité routière",
+    "question": " Pouvez-vous utiliser les feux de brouillard arrière par forte pluie ? ",
+    "answer": " Non "
+  },
+  {
+    "id": "91-182",
+    "type": "VI",
+    "category": "1ers secours",
+    "question": " Quels sont les signes d’un arrêt cardiaque ? ",
+    "answer": " La victime ne répond pas, ne réagit pas et ne respire pas, ou présente une respiration anormale "
+  },
+  {
+    "id": "92-183",
+    "type": "VE",
+    "category": "Sécurité routière",
+    "question": " Quelle est l’utilité des feux diurnes ? ",
+    "answer": " Rendre le véhicule plus visible le jour "
+  },
+  {
+    "id": "92-184",
+    "type": "VE",
+    "category": "1ers secours",
+    "question": " À quel moment pouvez-vous mettre fin à un appel avec les secours ? ",
+    "answer": " Uniquement lorsque notre correspondant nous invite à le faire "
+  },
+  {
+    "id": "93-185",
+    "type": "VI",
+    "category": "Sécurité routière",
+    "question": " Quel peut être le risque de maintenir le recyclage de l’air de manière prolongée ? ",
+    "answer": " Un risque de mauvaise visibilité par l’apparition de buée sur les surfaces vitrées "
+  },
+  {
+    "id": "93-186",
+    "type": "VI",
+    "category": "1ers secours",
+    "question": " Quels sont les risques pour une personne en perte de connaissance qui est allongée sur le dos ? ",
+    "answer": " L’arrêt respiratoire et l’arrêt cardiaque "
+  },
+  {
+    "id": "94-187",
+    "type": "VE",
+    "category": "Sécurité routière",
+    "question": " Utilise-t-on le triangle de pré-signalisation sur autoroute ? ",
+    "answer": " Non "
+  },
+  {
+    "id": "94-188",
+    "type": "VE",
+    "category": "1ers secours",
+    "question": " Quel comportement doit-on adopter en présence d’une victime en arrêt cardiaque ? ",
+    "answer": " ALERTER : alerter immédiatement les secours. MASSER : pratiquer une réanimation cardio-pulmonaire. DEFIBRILLER: utiliser un défibrillateur automatique (DAE) si possible "
+  },
+  {
+    "id": "95-189",
+    "type": "VI",
+    "category": "Sécurité routière",
+    "question": " Quel est le risque de maintenir les feux de route lors d’un croisement avec d’autres usagers ? ",
+    "answer": " Un risque d’éblouissement des autres usagers "
+  },
+  {
+    "id": "95-190",
+    "type": "VI",
+    "category": "1ers secours",
+    "question": " Quel est l’objectif du Signal d’Alerte et d’Information des Populations (SAIP) ",
+    "answer": " Avertir la population d’un danger imminent ou qu’un événement grave est en train de se produire "
+  },
+  {
+    "id": "96-191",
+    "type": "VE",
+    "category": "Sécurité routière",
+    "question": " Quelles sont les conséquences en cas de panne d’un feu de croisement ? ",
+    "answer": " Une mauvaise visibilité et le risque d’être confondu avec un deux roues "
+  },
+  {
+    "id": "96-192",
+    "type": "VE",
+    "category": "1ers secours",
+    "question": " Citez les trois manières d’évaluer l’état de conscience d’une victime ? ",
+    "answer": " Lui poser des questions simples (“comment ça va ?”, “vous m’entendez ?”). Lui secouer doucement les épaules. Lui prendre la main en lui demandant d’exécuter un geste simple (“serrez-moi la main”) "
+  },
+  {
+    "id": "97-193",
+    "type": "VI",
+    "category": "Sécurité routière",
+    "question": " Pour une bonne visibilité vers l’arrière, en plus de l’utilisation de l’essuie-glace, quelle commande pouvez-vous actionner par temps de pluie ? ",
+    "answer": " La commande de désembuage arrière "
+  },
+  {
+    "id": "97-194",
+    "type": "VI",
+    "category": "1ers secours",
+    "question": " Quels comportements adopter en présence d’une victime qui ne répond pas et ne réagit pas, mais respire ? ",
+    "answer": " La placer en position stable sur le côté ou position latérale de sécurité. Alerter les secours. Surveiller la respiration de la victime jusqu’à l’arrivée des secours "
+  },
+  {
+    "id": "98-195",
+    "type": "VE",
+    "category": "Sécurité routière",
+    "question": " Quelles sont les conséquences en cas de panne d’un feu de position arrière ? ",
+    "answer": " Être mal vu et un risque de collision "
+  },
+  {
+    "id": "98-196",
+    "type": "VE",
+    "category": "1ers secours",
+    "question": " Comment est diffusée l’alerte émise par le Signal d’Alerte et d’Information aux Populations (SAIP) ? ",
+    "answer": " Grâce aux sirènes, aux médias tels que Radio France et France Télévision ou encore grâce à l’application SAIP "
+  },
+  {
+    "id": "99-197",
+    "type": "VI",
+    "category": "Sécurité routière",
+    "question": " À quelle fréquence est-il préconisé de vérifier la pression d’air des pneumatiques ? ",
+    "answer": " Tous les mois "
+  },
+  {
+    "id": "99-198",
+    "type": "VI",
+    "category": "1ers secours",
+    "question": " Qu’est-ce qu’un arrêt cardiaque ? ",
+    "answer": " Le cœur ne fonctionne plus ou fonctionne d’une façon anarchique "
+  }
+]
