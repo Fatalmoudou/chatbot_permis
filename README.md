@@ -1,6 +1,6 @@
 # chatbot_permis
 Objectifs
-Créer un chatbot capable de poser des questions de type QCM et de donner des corrections.
+Un projet d'entraînement pour créer un chatbot intelligent permettant de s'exercer au code de la route.
 
 Stocker les données dans MongoDB.
 
@@ -26,9 +26,7 @@ Dashboard (optionnel) : Streamlit
 Vector Search (optionnel) : FAISS ou MongoDB Atlas Search
 
 📂 Structure du projet
-bash
-Copier
-Modifier
+
 chatbot-permis/
 │
 ├── backend/
@@ -47,24 +45,20 @@ chatbot-permis/
 └── README.md
 🚀 Installation
 1. Cloner le projet
-bash
-Copier
-Modifier
+
 git clone https://github.com/Fatalmoudou/chatbot_permis
 cd chatbot-permis
 2. Créer un environnement virtuel
-bash
-Copier
-Modifier
+
 python -m venv venv
 source venv/bin/activate  # macOS / Linux
 venv\Scripts\activate     # Windows
 3. Installer les dépendances
-bash
-Copier
-Modifier
+
 pip install -r requirements.txt
- Répartition des tâches
+
+4. Répartition des tâches
+
 ->Futur Software Engineer
  Backend (FastAPI)
 Créer l’API pour exposer les endpoints /quiz et /answer.
